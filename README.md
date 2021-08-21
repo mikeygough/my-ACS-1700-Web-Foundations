@@ -38,21 +38,27 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 
 | Class |   Date   |                 Topics                 | Assignment Due | Assessment Due |
 |:-----:|:--------:|:---------------------------------------|:---------------|:---------------|
-|  1 | Thu, Oct 22 | [Semantic HTML] | - |
-|  2 | Tue, Oct 27 | [HTML Attributes] | [Learn Semantic Markup](https://github.com/soggybag/learn-semantic-markup) |
-|  3 | Thu, Oct 29 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup](Assignments/01-Portfolio-Part-1-Structure.md) |
-|  - | Tue, Nov 3  | **Vote! - Civic Responsibility Break** | - |
-|  4 | Thu, Nov 5  | [CSS Intro] | [Learn Markup Level 2](https://github.com/soggybag/learn-markup-level-2) |
-|  5 | Tue, Nov 10 | [CSS Box Model] | [CSS Challenges](Assignments/041-CSS-Challenges.md) | [**Quiz 1**](Assessments/quiz-1-study-guide.md) <br>(Due Wednesday) |
-|  6 | Thu, Nov 12 | [Flexbox] | [Style Your Portfolio](Assignments/043-CSS-Portfolio.md) <br>-AND-<br> [CSS Challenges 2](Assignments/042-CSS-Challenges-part-2.md) <br>(Due Friday) |
-|  7 | Tue, Nov 17 | [Review / Lab] | - |
-|  8 | Thu, Nov 19 | [JavaScript Intro] | [Single Page Site](Assignments/05-Single-Page-Site.md) |
-|  9 | Tue, Nov 24 | [JavaScript Syntax] | - | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
-|  - | Thu, Nov 26 | **Holiday - Thanksgiving** | - |
-| 10 | Tue, Dec 1  | [JavaScript in the DOM] | - |
-| 11 | Thu, Dec 3  | [JavaScript Objects] | [Tip Calculator](Assignments/07-Tip-Calculator.md) |
-| 12 | Tue, Dec 8  | [Review / Lab] | - |
-| 13 | Thu, Dec 10 | Lab Day | [Custom Calculator](Assignments/11-Custom-Calculator.md) | [**Quiz 3**](Assessments/quiz-3-study-guide.md) |
+|  1 | Mon, Aug 23 | [Semantic HTML] | - |
+|  2 | Wed, Aug 25 | [HTML Attributes] | [Learn Semantic Markup](https://github.com/soggybag/learn-semantic-markup) |
+|  3 | Fri, Aug 27 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup](Assignments/01-Portfolio-Part-1-Structure.md) |
+|  4 | Mon, Aug 30 | [CSS Intro] | [Learn Markup Level 2](https://github.com/soggybag/learn-markup-level-2) |
+|  5 | Wed, Sep  1 | [CSS Box Model] | [CSS Challenges](Assignments/041-CSS-Challenges.md) | [**Quiz 1**](Assessments/quiz-1-study-guide.md) <br>(Due Wednesday) |
+|  6 | Fri, Sep  3 | [Flexbox] | [Style Your Portfolio](Assignments/043-CSS-Portfolio.md) <br>-AND-<br> [CSS Challenges 2](Assignments/042-CSS-Challenges-part-2.md) <br>(Due Friday) |
+|  7 | Mon, Sep  6 | [Review / Lab] | - |
+|  8 | Wed, Sep  8 | [JavaScript Intro] | [Single Page Site](Assignments/05-Single-Page-Site.md) |
+|  9 | Fri, Sep 10 | [JavaScript Syntax] | - | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
+| 10 | Mon, Sep 13 | [JavaScript in the DOM] | - |
+| 11 | Wed, Sep 15 | [JavaScript Objects] | [Tip Calculator](Assignments/07-Tip-Calculator.md) |
+| 12 | Fri, Sep 17 | [Review / Lab] | - |
+| 13 | Mon, Sep 20 | Lab Day | [Custom Calculator](Assignments/11-Custom-Calculator.md) | [**Quiz 3**](Assessments/quiz-3-study-guide.md) |
+| 14 | Wed, Sep 22 | [???] | - |
+| 15 | Fri, Sep 24 | [???] | - |
+| 16 | Mon, Sep 27 | [???] | - |
+| 17 | Wed, Sep 29 | [???] | - |
+| 18 | Fri, Oct  1 | [???] | - |
+| 19 | Mon, Oct  4 | [???] | - |
+| 19 | Wed, Oct  6 | [???] | - |
+| 20 | Wed, Oct  8 | [???] | - |
 
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
 [HTML Attributes]: https://docs.google.com/presentation/d/1rA7yEzSz7k9vkpOj2kJmKXvTabp7gxrzbuqSJs__pVc/edit?usp=sharing
