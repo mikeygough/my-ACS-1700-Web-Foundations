@@ -36,8 +36,8 @@ By the end of the course, you will be able to ...
 
 All assignments are due **by midnight (11:59pm) on the day specified.**
 
-| Class |   Date   |                 Topics                  | Assignment Due | Assessment Due |
-|:-----:|:--------:|:---------------------------------------:|:--------------:|:--------------:|
+| Class |   Date   |                 Topics                 | Assignment Due | Assessment Due |
+|:-----:|:--------:|:---------------------------------------|:---------------|:---------------|
 |  1 | Thu, Oct 22 | [Semantic HTML] | - |
 |  2 | Tue, Oct 27 | [HTML Attributes] | [Learn Semantic Markup](https://github.com/soggybag/learn-semantic-markup) |
 |  3 | Thu, Oct 29 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup](Assignments/01-Portfolio-Part-1-Structure.md) |
