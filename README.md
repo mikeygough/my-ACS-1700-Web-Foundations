@@ -61,7 +61,7 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 [CSS Box Model]: https://docs.google.com/presentation/d/1vu5krTw-Pcm87-yWHXaeXcq5aMmybgds_Vb-a9naQF0/edit?usp=sharing
 [Flexbox]: https://docs.google.com/presentation/d/1hljwzQACcNQFbSRdnxD0cdq31dci47GW5moZm5S8cg8/edit?usp=sharing
 [Review / Lab]: https://docs.google.com/presentation/d/11UNl1R1qc5qZLIPyv1MwYDOMOmkKhvOMSL-PGyu4txQ/edit?usp=sharing
-[JavaScript Intro]: https://docs.google.com/presentation/d/11UNl1R1qc5qZLIPyv1MwYDOMOmkKhvOMSL-PGyu4txQ/edit?usp=sharing
+[JavaScript Intro]: https://docs.google.com/presentation/d/1NWNvI06x5utVlV8PBFhhIDZtrh8vNiCGC9H0zjGVTDU/edit?usp=sharing
 [JavaScript Syntax]: https://docs.google.com/presentation/d/1B6q0QxZI9tPDikUUW2JELjMKnFOT23iDrMMiJ5gLILY/edit?usp=sharing
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
 [JavaScript Objects]: https://docs.google.com/presentation/d/1SwvptLjD8dJ4jBqL6qsrG95qms5aNV45VAkjMzIf8t8/edit?usp=sharing
