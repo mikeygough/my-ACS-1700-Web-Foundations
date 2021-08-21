@@ -46,7 +46,7 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 |  5 | Tue, Nov 10 | [CSS Box Model] | [CSS Challenges](Assignments/041-CSS-Challenges.md) | [**Quiz 1**](Assessments/quiz-1-study-guide.md) <br>(Due Wednesday) |
 |  6 | Thu, Nov 12 | [Flexbox] | [Style Your Portfolio](Assignments/043-CSS-Portfolio.md) <br>-AND-<br> [CSS Challenges 2](Assignments/042-CSS-Challenges-part-2.md) <br>(Due Friday) |
 |  7 | Tue, Nov 17 | [Review / Lab] | - |
-|  8 | Thu, Nov 19 | [JavaScript Intro]) | [Single Page Site](Assignments/05-Single-Page-Site.md) |
+|  8 | Thu, Nov 19 | [JavaScript Intro] | [Single Page Site](Assignments/05-Single-Page-Site.md) |
 |  9 | Tue, Nov 24 | [JavaScript Syntax] | - | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
 |  - | Thu, Nov 26 | **Holiday - Thanksgiving** | - |
 | 10 | Tue, Dec 1  | [JavaScript in the DOM] | - |
