@@ -54,12 +54,12 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 | 12 | Tue, Dec 8  | [Review / Lab](https://docs.google.com/presentation/d/1IJqx1-w7Q-DyRFiXIRHMlGoJ1GZXXateZOK7aAxyzCQ/edit?usp=sharing) | - |
 | 13 | Thu, Dec 10 | Lab Day | [Custom Calculator](Assignments/11-Custom-Calculator.md) | [**Quiz 3**](Assessments/quiz-3-study-guide.md) |
 
-[Semantic HTML]: https://docs.google.com/presentation/d/1N4lM8Iwa5VEeeCLw-5QyJgsUkyMakVOLWw8Nx-DGrGI/edit?usp=sharing
-[HTML Attributes]: https://docs.google.com/presentation/d/1Cb60k46G3NmK7qyoiGpHzo8FMGRcvrk97XgLfmQn78Y/edit?usp=sharing
-[Forms & the DOM]: https://docs.google.com/presentation/d/1EW68FKT3KHE9dgr4Y1J9inthdw2aGLL8eEn1Phxbgdo/edit?usp=sharing
-[CSS Intro]: https://docs.google.com/presentation/d/1BlnHQLA6dixDPMYDbO__L39tRPoG7fx-HNjzZJr3B4I/edit?usp=sharing
-[CSS Box Model]: https://docs.google.com/presentation/d/1krVRtqA_yxW-O98bUWBguIEucS1zMSUp-hMGGHaEzM4/edit?usp=sharing
-[Flexbox]: https://docs.google.com/presentation/d/1PNIxUwJSdJf7aw-h9LYec0DKgNpjB-4ZmAtMVBPNAnk/edit?usp=sharing
+[Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
+[HTML Attributes]: https://docs.google.com/presentation/d/1rA7yEzSz7k9vkpOj2kJmKXvTabp7gxrzbuqSJs__pVc/edit?usp=sharing
+[Forms & the DOM]: https://docs.google.com/presentation/d/1Z1Q4r6Kw9Ph34k3W2BNee_akYsH-HKVeH6BK4er2M7g/edit?usp=sharing
+[CSS Intro]: https://docs.google.com/presentation/d/1MgDBUG8lIsET5mK0w5EjvgajvaaOLhOYA73u8L26U_M/edit?usp=sharing
+[CSS Box Model]: https://docs.google.com/presentation/d/1vu5krTw-Pcm87-yWHXaeXcq5aMmybgds_Vb-a9naQF0/edit?usp=sharing
+[Flexbox]: https://docs.google.com/presentation/d/1hljwzQACcNQFbSRdnxD0cdq31dci47GW5moZm5S8cg8/edit?usp=sharing
 
 ## Evaluation
 
