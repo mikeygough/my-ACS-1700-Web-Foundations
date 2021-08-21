@@ -45,13 +45,13 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 |  4 | Thu, Nov 5  | [CSS Intro] | [Learn Markup Level 2](https://github.com/soggybag/learn-markup-level-2) |
 |  5 | Tue, Nov 10 | [CSS Box Model] | [CSS Challenges](Assignments/041-CSS-Challenges.md) | [**Quiz 1**](Assessments/quiz-1-study-guide.md) <br>(Due Wednesday) |
 |  6 | Thu, Nov 12 | [Flexbox] | [Style Your Portfolio](Assignments/043-CSS-Portfolio.md) <br>-AND-<br> [CSS Challenges 2](Assignments/042-CSS-Challenges-part-2.md) <br>(Due Friday) |
-|  7 | Tue, Nov 17 | [Review / Lab](https://docs.google.com/presentation/d/16Ws8URFLGMT6GjJ9siyyUzlCilzNsqyMtX57Ta-JMaw/edit?usp=sharing) | - |
-|  8 | Thu, Nov 19 | [JavaScript Intro](https://docs.google.com/presentation/d/1rrh3R_CEa4w7i2bPMPdFiiolAehjUC84Ok8e08xIE4A/edit?usp=sharing) | [Single Page Site](Assignments/05-Single-Page-Site.md) |
-|  9 | Tue, Nov 24 | [JavaScript Syntax](https://docs.google.com/presentation/d/1RSvgb_k1FI09G3l4-h2o8kcvfSOyS4Hc8lhCUD-aFwU/edit) | - | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
+|  7 | Tue, Nov 17 | [Review / Lab] | - |
+|  8 | Thu, Nov 19 | [JavaScript Intro]) | [Single Page Site](Assignments/05-Single-Page-Site.md) |
+|  9 | Tue, Nov 24 | [JavaScript Syntax] | - | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
 |  - | Thu, Nov 26 | **Holiday - Thanksgiving** | - |
-| 10 | Tue, Dec 1  | [JavaScript in the DOM](https://docs.google.com/presentation/d/1lIuqqUQsM2eiXSa-aQVe4ZVlRZ5pDrZoDSTo_JCARlY/edit) | - |
-| 11 | Thu, Dec 3  | [JavaScript Objects](https://docs.google.com/presentation/d/13IvjmIzSDkCUEH0uxd7er7e3ZxFZY206a0fNwxst7bs/edit?usp=sharing) | [Tip Calculator](Assignments/07-Tip-Calculator.md) |
-| 12 | Tue, Dec 8  | [Review / Lab](https://docs.google.com/presentation/d/1IJqx1-w7Q-DyRFiXIRHMlGoJ1GZXXateZOK7aAxyzCQ/edit?usp=sharing) | - |
+| 10 | Tue, Dec 1  | [JavaScript in the DOM] | - |
+| 11 | Thu, Dec 3  | [JavaScript Objects] | [Tip Calculator](Assignments/07-Tip-Calculator.md) |
+| 12 | Tue, Dec 8  | [Review / Lab] | - |
 | 13 | Thu, Dec 10 | Lab Day | [Custom Calculator](Assignments/11-Custom-Calculator.md) | [**Quiz 3**](Assessments/quiz-3-study-guide.md) |
 
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
@@ -60,6 +60,12 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 [CSS Intro]: https://docs.google.com/presentation/d/1MgDBUG8lIsET5mK0w5EjvgajvaaOLhOYA73u8L26U_M/edit?usp=sharing
 [CSS Box Model]: https://docs.google.com/presentation/d/1vu5krTw-Pcm87-yWHXaeXcq5aMmybgds_Vb-a9naQF0/edit?usp=sharing
 [Flexbox]: https://docs.google.com/presentation/d/1hljwzQACcNQFbSRdnxD0cdq31dci47GW5moZm5S8cg8/edit?usp=sharing
+[Review / Lab]: https://docs.google.com/presentation/d/16Ws8URFLGMT6GjJ9siyyUzlCilzNsqyMtX57Ta-JMaw/edit?usp=sharing
+[JavaScript Intro]: https://docs.google.com/presentation/d/11UNl1R1qc5qZLIPyv1MwYDOMOmkKhvOMSL-PGyu4txQ/edit?usp=sharing
+[JavaScript Syntax]: https://docs.google.com/presentation/d/1RSvgb_k1FI09G3l4-h2o8kcvfSOyS4Hc8lhCUD-aFwU/edit
+[JavaScript in the DOM]: https://docs.google.com/presentation/d/1lIuqqUQsM2eiXSa-aQVe4ZVlRZ5pDrZoDSTo_JCARlY/edit
+[JavaScript Objects]: https://docs.google.com/presentation/d/13IvjmIzSDkCUEH0uxd7er7e3ZxFZY206a0fNwxst7bs/edit?usp=sharing
+[Review / Lab]: https://docs.google.com/presentation/d/1IJqx1-w7Q-DyRFiXIRHMlGoJ1GZXXateZOK7aAxyzCQ/edit?usp=sharing
 
 ## Evaluation
 
