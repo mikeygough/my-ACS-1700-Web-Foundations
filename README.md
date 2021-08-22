@@ -41,16 +41,16 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 |  1 | Mon, Aug 23 | [Semantic HTML] | Start Portfolio | - |
 |  2 | Wed, Aug 25 | [HTML Attributes] | Continue portfolio | - |
 |  3 | Fri, Aug 27 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - | 
-|  4 | Mon, Aug 30 | [CSS Intro] | [Learn Markup Level 2] |
+|  4 | Mon, Aug 30 | [CSS Intro] | [Learn Markup Level 2] | - |
 |  5 | Wed, Sep  1 | [CSS Box Model] | [CSS Challenges] | [**Quiz 1**] <br>(Due Wednesday) |
-|  6 | Fri, Sep  3 | [Flexbox] | [Style Your Portfolio](Assignments/043-CSS-Portfolio.md) <br>-AND-<br> [CSS Challenges 2](Assignments/042-CSS-Challenges-part-2.md) <br>(Due Friday) |
-|  7 | Mon, Sep  6 | [Review / Lab] | - |
-|  8 | Wed, Sep  8 | [JavaScript Intro] | [Single Page Site](Assignments/05-Single-Page-Site.md) |
-|  9 | Fri, Sep 10 | [JavaScript Syntax] | - | [**Quiz 2**](Assessments/quiz-2-study-guide.md) |
-| 10 | Mon, Sep 13 | [JavaScript in the DOM] | - |
-| 11 | Wed, Sep 15 | [JavaScript Objects] | [Tip Calculator](Assignments/07-Tip-Calculator.md) |
-| 12 | Fri, Sep 17 | [Review / Lab] | - |
-| 13 | Mon, Sep 20 | Lab Day | [Custom Calculator](Assignments/11-Custom-Calculator.md) | [**Quiz 3**](Assessments/quiz-3-study-guide.md) |
+|  6 | Fri, Sep  3 | [Flexbox] | [Style Your Portfolio] <br>-AND-<br> [CSS Challenges 2] <br>(Due Friday) | - |
+|  7 | Mon, Sep  6 | [Review / Lab] | - | - |
+|  8 | Wed, Sep  8 | [JavaScript Intro] | [Single Page Site] | - |
+|  9 | Fri, Sep 10 | [JavaScript Syntax] | - | [**Quiz 2**] |
+| 10 | Mon, Sep 13 | [JavaScript in the DOM] | - | - |
+| 11 | Wed, Sep 15 | [JavaScript Objects] | [Tip Calculator] | - |
+| 12 | Fri, Sep 17 | [Review / Lab] | - | - |
+| 13 | Mon, Sep 20 | Lab Day | [Custom Calculator] | [**Quiz 3**] |
 | 14 | Wed, Sep 22 | [???] | - |
 | 15 | Fri, Sep 24 | [???] | - |
 | 16 | Mon, Sep 27 | [???] | - |
@@ -78,9 +78,16 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
 [Learn Markup Level 2]: https://github.com/soggybag/learn-markup-level-2
 [CSS Challenges]: Assignments/041-CSS-Challenges.md
+[Style Your Portfolio]: Assignments/043-CSS-Portfolio.md
+[CSS Challenges 2]: Assignments/042-CSS-Challenges-part-2.md
+[Single Page Site]: Assignments/05-Single-Page-Site.md
+[Tip Calculator]: Assignments/07-Tip-Calculator.md
+[Custom Calculator]: Assignments/11-Custom-Calculator.md
 
 <!-- Quizzes -->
 [**Quiz 1**]: Assessments/quiz-1-study-guide.md
+[**Quiz 2**]: Assessments/quiz-2-study-guide.md
+[**Quiz 3**]: Assessments/quiz-3-study-guide.md
 
 ## Evaluation
 
