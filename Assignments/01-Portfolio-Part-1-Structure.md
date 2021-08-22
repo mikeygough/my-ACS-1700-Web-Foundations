@@ -27,9 +27,9 @@ This assignment must be submitted through Gradescope.
     - Online presence, include links to: 
         - LinkedIn
         - GitHub
-        - Other social media Instagram, FB, etc. 
+        - Other social media Instagram, FB, etc.
 
-Mark up your content. Use the following tags. 
+Mark up your content. Use the following tags.
 
 - [article](https://www.w3schools.com/tags/tag_article.asp), [section](https://www.w3schools.com/tags/tag_section.asp)
 - [nav](https://www.w3schools.com/tags/tag_nav.asp), [main](https://www.w3schools.com/tags/tag_main.asp)

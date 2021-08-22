@@ -38,9 +38,9 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 
 | Class |   Date   |                 Topics                 | Assignment Due | Assessment Due |
 |:-----:|:--------:|:---------------------------------------|:---------------|:---------------|
-|  1 | Mon, Aug 23 | [Semantic HTML] | - |
-|  2 | Wed, Aug 25 | [HTML Attributes] | [Learn Semantic Markup](https://github.com/soggybag/learn-semantic-markup) |
-|  3 | Fri, Aug 27 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup](Assignments/01-Portfolio-Part-1-Structure.md) |
+|  1 | Mon, Aug 23 | [Semantic HTML] | Start Portfolio | - |
+|  2 | Wed, Aug 25 | [HTML Attributes] | Continue portfolio | - |
+|  3 | Fri, Aug 27 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup](Assignments/01-Portfolio-Part-1-Structure.md) | - | 
 |  4 | Mon, Aug 30 | [CSS Intro] | [Learn Markup Level 2](https://github.com/soggybag/learn-markup-level-2) |
 |  5 | Wed, Sep  1 | [CSS Box Model] | [CSS Challenges](Assignments/041-CSS-Challenges.md) | [**Quiz 1**](Assessments/quiz-1-study-guide.md) <br>(Due Wednesday) |
 |  6 | Fri, Sep  3 | [Flexbox] | [Style Your Portfolio](Assignments/043-CSS-Portfolio.md) <br>-AND-<br> [CSS Challenges 2](Assignments/042-CSS-Challenges-part-2.md) <br>(Due Friday) |
