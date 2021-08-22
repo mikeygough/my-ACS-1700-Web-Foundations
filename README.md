@@ -40,9 +40,9 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 |:-----:|:--------:|:---------------------------------------|:---------------|:---------------|
 |  1 | Mon, Aug 23 | [Semantic HTML] | Start Portfolio | - |
 |  2 | Wed, Aug 25 | [HTML Attributes] | Continue portfolio | - |
-|  3 | Fri, Aug 27 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup](Assignments/01-Portfolio-Part-1-Structure.md) | - | 
-|  4 | Mon, Aug 30 | [CSS Intro] | [Learn Markup Level 2](https://github.com/soggybag/learn-markup-level-2) |
-|  5 | Wed, Sep  1 | [CSS Box Model] | [CSS Challenges](Assignments/041-CSS-Challenges.md) | [**Quiz 1**](Assessments/quiz-1-study-guide.md) <br>(Due Wednesday) |
+|  3 | Fri, Aug 27 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - | 
+|  4 | Mon, Aug 30 | [CSS Intro] | [Learn Markup Level 2] |
+|  5 | Wed, Sep  1 | [CSS Box Model] | [CSS Challenges] | [**Quiz 1**] <br>(Due Wednesday) |
 |  6 | Fri, Sep  3 | [Flexbox] | [Style Your Portfolio](Assignments/043-CSS-Portfolio.md) <br>-AND-<br> [CSS Challenges 2](Assignments/042-CSS-Challenges-part-2.md) <br>(Due Friday) |
 |  7 | Mon, Sep  6 | [Review / Lab] | - |
 |  8 | Wed, Sep  8 | [JavaScript Intro] | [Single Page Site](Assignments/05-Single-Page-Site.md) |
@@ -60,6 +60,7 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 | 19 | Wed, Oct  6 | [???] | - |
 | 20 | Wed, Oct  8 | [???] | - |
 
+<!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
 [HTML Attributes]: https://docs.google.com/presentation/d/1rA7yEzSz7k9vkpOj2kJmKXvTabp7gxrzbuqSJs__pVc/edit?usp=sharing
 [Forms & the DOM]: https://docs.google.com/presentation/d/1Z1Q4r6Kw9Ph34k3W2BNee_akYsH-HKVeH6BK4er2M7g/edit?usp=sharing
@@ -72,6 +73,14 @@ All assignments are due **by midnight (11:59pm) on the day specified.**
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
 [JavaScript Objects]: https://docs.google.com/presentation/d/1SwvptLjD8dJ4jBqL6qsrG95qms5aNV45VAkjMzIf8t8/edit?usp=sharing
 [Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
+
+<!-- Assignments -->
+[Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
+[Learn Markup Level 2]: https://github.com/soggybag/learn-markup-level-2
+[CSS Challenges]: Assignments/041-CSS-Challenges.md
+
+<!-- Quizzes -->
+[**Quiz 1**]: Assessments/quiz-1-study-guide.md
 
 ## Evaluation
 
