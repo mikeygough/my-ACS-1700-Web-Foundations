@@ -41,9 +41,9 @@ Mark up your content. Use the following tags.
 
 To help you complete this assignment, the following videos will walk you through creating a basic portfolio and adding semantic HTML tags:
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/wTxHYtNVrEw"></iframe>
+https://www.youtube.com/embed/wTxHYtNVrEw
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/BoSkgteRoKg"></iframe>
+https://www.youtube.com/embed/BoSkgteRoKg
 
 ### Deliverable
 
