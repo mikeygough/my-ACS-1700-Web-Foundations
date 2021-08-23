@@ -32,7 +32,7 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Monday, August 23 – Friday, October 8, 2021
 
-**Class Times:** Monday, Wednesday and Friday at 1:30 – 3:20pm
+**Class Times:** Monday, Wednesday and Friday at 1:30 PM PST – 3:20 PM PST
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
