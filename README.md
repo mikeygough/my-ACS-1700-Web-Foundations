@@ -51,11 +51,11 @@ By the end of the course, you will be able to ...
 | 13 | Mon, Sep 20 | [JavaScript in the DOM] | - | - |
 | 14 | Wed, Sep 22 | [JavaScript Objects] | [Tip Calculator] | - |
 | 15 | Fri, Sep 24 | [Review / Lab] | - | Interview Practice |
-| 16 | Mon, Sep 27 | - | - | - |
-| 17 | Wed, Sep 29 | [???] | - | - |
+| 16 | Mon, Sep 27 | TBA | - | - |
+| 17 | Wed, Sep 29 | TBA | - | - |
 | 18 | Fri, Oct  1 | [Review / Lab] | - | Interview Practice |
-| 19 | Mon, Oct  4 | [???] | - | - |
-| 19 | Wed, Oct  6 | [???] | - | - |
+| 19 | Mon, Oct  4 | TBA | - | - |
+| 19 | Wed, Oct  6 | TBA | - | - |
 | 20 | Fri, Oct  8 | Lab Day | [Custom Calculator] | [**Quiz 3**] |
 
 <!-- Lessons -->
@@ -105,9 +105,9 @@ Every assignment submitted by the deadline will be allowed **one resubmission** 
 
 If you have an extenuating circumstance such as prolonged illness, please reach out to your instructor to request an extension.
 
-## Class Recordings
+<!-- ## Class Recordings
 
-Class recordings will be available [here](https://docs.google.com/document/d/12ACry7MDrAS3UJzid6zDeoP-AqAc3z1rIWIFRKEecnE/edit#). For privacy reasons, please do not share the recordings outside of the Make School student body.
+Class recordings will be available [here](https://docs.google.com/document/d/12ACry7MDrAS3UJzid6zDeoP-AqAc3z1rIWIFRKEecnE/edit#). For privacy reasons, please do not share the recordings outside of the Make School student body. -->
 
 ## Academic Honesty Policy
 
@@ -129,13 +129,13 @@ We take academic honesty very seriously at Make School. The consequences for vio
 
 For subsequent offenses, more serious consequences may be considered. For more information, please see [Make School's academic honesty policy](https://make.sc/academic-honesty-policy).
 
-## Information Resources
+<!-- ## Information Resources
 
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
-- [make.sc/library](http://make.sc/library)
+- [make.sc/library](http://make.sc/library) -->
 
-## Make School Course Policies
+<!-- ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
@@ -144,4 +144,4 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
-- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students -->
