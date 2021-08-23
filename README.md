@@ -1,6 +1,6 @@
-# WEB 1.0 Web Foundations
+# ACS 1700 Web Foundations
 
-<span class="refresh-instructions">This is a living document! Hold down the `SHIFT` key and press `Refresh` to get the latest version.</span>
+<!-- <span class="refresh-instructions">This is a living document! Hold down the `SHIFT` key and press `Refresh` to get the latest version.</span> -->
 
 ## Course Description
 
@@ -14,11 +14,11 @@ The web is the biggest software platform and growing. The foundation material ta
 
 None
 
-## Course Specifics
+<!-- ## Course Specifics
 
 **Course Delivery**: online | 7 weeks | 13 sessions
 
-**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
+**Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours -->
 
 ## Learning Outcomes
 
@@ -30,35 +30,33 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Thursday, Oct 22 – Thursday, Dec 10, 2020 (7 weeks)
+**Course Dates:** Monday, August 23 – Friday, October 8, 2021
 
-**Class Times:** Tuesday and Thursday at 9:30–12:15pm (13 class sessions)
+**Class Times:** Monday, Wednesday and Friday at 1:30 – 3:20pm
 
-All assignments are due **by midnight (11:59pm) on the day specified.**
-
-| Class |   Date   |                 Topics                 | Assignment Due | Assessment Due |
-|:-----:|:--------:|:---------------------------------------|:---------------|:---------------|
+| Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
+|:-----:|:--------:|:----------|:-----------------|:-----------------|
 |  1 | Mon, Aug 23 | [Semantic HTML] | Start Portfolio | - |
 |  2 | Wed, Aug 25 | [HTML Attributes] | Continue portfolio | - |
-|  3 | Fri, Aug 27 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - | 
-|  4 | Mon, Aug 30 | [CSS Intro] | [Learn Markup Level 2] | - |
-|  5 | Wed, Sep  1 | [CSS Box Model] | [CSS Challenges] | [**Quiz 1**] <br>(Due Wednesday) |
-|  6 | Fri, Sep  3 | [Flexbox] | [Style Your Portfolio] <br>-AND-<br> [CSS Challenges 2] <br>(Due Friday) | - |
-|  7 | Mon, Sep  6 | [Review / Lab] | - | - |
-|  8 | Wed, Sep  8 | [JavaScript Intro] | [Single Page Site] | - |
-|  9 | Fri, Sep 10 | [JavaScript Syntax] | - | [**Quiz 2**] |
-| 10 | Mon, Sep 13 | [JavaScript in the DOM] | - | - |
-| 11 | Wed, Sep 15 | [JavaScript Objects] | [Tip Calculator] | - |
-| 12 | Fri, Sep 17 | [Review / Lab] | - | - |
-| 13 | Mon, Sep 20 | Lab Day | [Custom Calculator] | [**Quiz 3**] |
-| 14 | Wed, Sep 22 | [???] | - |
-| 15 | Fri, Sep 24 | [???] | - |
-| 16 | Mon, Sep 27 | [???] | - |
-| 17 | Wed, Sep 29 | [???] | - |
-| 18 | Fri, Oct  1 | [???] | - |
-| 19 | Mon, Oct  4 | [???] | - |
-| 19 | Wed, Oct  6 | [???] | - |
-| 20 | Wed, Oct  8 | [???] | - |
+|  3 | Fri, Aug 27 | [Review / Lab] | - | Interview Practice | 
+|  4 | Mon, Aug 30 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - |
+|  5 | Wed, Sep  1 | [CSS Intro] | [Learn Markup Level 2] | - |
+|  6 | Fri, Sep  3 | [CSS Box Model] | [CSS Challenges] | - |
+|  7 | Mon, Sep  6 | Labor Day no class! | - | - |
+|  8 | Wed, Sep  8 | [Flexbox] | [Style Your Portfolio] <br>-AND-<br> [CSS Challenges 2] | [**Quiz 1**] |
+|  9 | Fri, Sep 10 | [Review / Lab] | - | - |
+| 10 | Mon, Sep 13 | [JavaScript Intro] | - | - |
+| 11 | Wed, Sep 15 | [JavaScript Syntax] | [Single Page Site] | [**Quiz 2**] |
+| 12 | Fri, Sep 17 | [Review / Lab] | - | Interview Practice |
+| 13 | Mon, Sep 20 | [JavaScript in the DOM] | - | - |
+| 14 | Wed, Sep 22 | [JavaScript Objects] | [Tip Calculator] | - |
+| 15 | Fri, Sep 24 | [Review / Lab] | - | Interview Practice |
+| 16 | Mon, Sep 27 | - | - | - |
+| 17 | Wed, Sep 29 | [???] | - | - |
+| 18 | Fri, Oct  1 | [Review / Lab] | - | Interview Practice |
+| 19 | Mon, Oct  4 | [???] | - | - |
+| 19 | Wed, Oct  6 | [???] | - | - |
+| 20 | Fri, Oct  8 | Lab Day | [Custom Calculator] | [**Quiz 3**] |
 
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
