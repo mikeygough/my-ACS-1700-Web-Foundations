@@ -51,7 +51,7 @@ You must submit your `index.html` to Gradescope. Find the assignment in your lis
 
 ### Due date
 
-Class 2
+Check GradScope for dates
 
 ## Assessing the assignment
 
