@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
 |  1 | Mon, Aug 23 | HTML [Semantic HTML] | Start Portfolio | - |
 |  2 | Wed, Aug 25 | HTML [HTML Attributes] | Continue portfolio | - |
-|  3 | Fri, Aug 27 | [Lab 1] | - | Interview Practice | 
+|  3 | Fri, Aug 27 | [Lab 1] | Validate Portfolio | Interview Practice | 
 |  4 | Mon, Aug 30 | HTML [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - |
 |  5 | Wed, Sep  1 | CSS [CSS Intro] | [Learn Markup Level 2] | - |
 |  6 | Fri, Sep  3 | Review / Lab | - | Interview Practice |
