@@ -5,7 +5,9 @@ You've been hired! After your on boarding this week you've been assigned two tas
 - Markup an HTML page
 - Create a your portfolio page
 
-## Markup 
+You should solve these two problems and review your work with your team. 
+
+## Markup
 
 Do your best marking up your assigned document. Each person in your team will choose a different document from the documents listed below: 
 
@@ -15,9 +17,9 @@ Do your best marking up your assigned document. Each person in your team will ch
 
 Check your work with the HTML Validator: https://validator.w3.org
 
-Review your work with a team memeber. 
+Review your work with a team memeber.
 
-## Portfolio Page 
+## Portfolio Page
 
 Markup your portfolio page. Do your best to make use of semantic markup ideas.
 
@@ -27,3 +29,14 @@ Solve any errors or warnings that are pointed out by the validator.
 
 Review your work with a team memeber. Discuss their feedback and apply it to your work. 
 
+## Submit your work
+
+Submit your work to GradeScope. Register for this course: ACS 1700 with the code: 4PY3PB
+
+Upload your mark problem under the assignment: Markup Assessment
+
+https://www.gradescope.com/courses/294186/assignments/1443625/
+
+Upload your markedup portfolio under the assignment: Portfolio Part 1
+
+https://www.gradescope.com/courses/294186/assignments/1443438/
