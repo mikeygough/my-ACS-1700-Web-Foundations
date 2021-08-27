@@ -40,13 +40,13 @@ By the end of the course, you will be able to ...
 |  2 | Wed, Aug 25 | HTML [HTML Attributes] | Continue portfolio | - |
 |  3 | Fri, Aug 27 | [Lab 1] | Validate Portfolio | Interview Practice | 
 |  4 | Mon, Aug 30 | HTML [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - |
-|  5 | Wed, Sep  1 | CSS [CSS Intro] | [Learn Markup Level 2] | - |
+|  5 | Wed, Sep  1 | CSS [CSS Intro] | - | - |
 |  6 | Fri, Sep  3 | Review / Lab | - | Interview Practice |
 |  7 | Mon, Sep  6 | Labor Day no class! | - | - |
-|  8 | Wed, Sep  8 | CSS [Background Images] |  | |
+|  8 | Wed, Sep  8 | CSS [Background Images] | - | - |
 |  9 | Fri, Sep 10 | Review / Lab | - | [**Quiz 1**]  |
 | 10 | Mon, Sep 13 | CSS [CSS Box Model] | [CSS Challenges] | - |
-| 11 | Wed, Sep 15 | CSS [Flexbox] | [Style Your Portfolio] <br>-AND-<br> [CSS Challenges 2] | - |
+| 11 | Wed, Sep 15 | CSS [Flexbox] | [Style Your Portfolio] | - |
 | 12 | Fri, Sep 17 | Review / Lab | - | Interview Practice |
 | 13 | Mon, Sep 20 | JS [JavaScript Intro] | - | [**Quiz 2**] |
 | 14 | Wed, Sep 22 | JS [JavaScript Syntax] | [Single Page Site] | - |
