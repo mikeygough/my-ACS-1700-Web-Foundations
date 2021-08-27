@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
 |  1 | Mon, Aug 23 | HTML [Semantic HTML] | Start Portfolio | - |
 |  2 | Wed, Aug 25 | HTML [HTML Attributes] | Continue portfolio | - |
-|  3 | Fri, Aug 27 | Review / Lab | - | Interview Practice | 
+|  3 | Fri, Aug 27 | [Lab 1] | - | Interview Practice | 
 |  4 | Mon, Aug 30 | HTML [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - |
 |  5 | Wed, Sep  1 | CSS [CSS Intro] | [Learn Markup Level 2] | - |
 |  6 | Fri, Sep  3 | Review / Lab | - | Interview Practice |
@@ -71,6 +71,9 @@ By the end of the course, you will be able to ...
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
 [JavaScript Objects]: https://docs.google.com/presentation/d/1SwvptLjD8dJ4jBqL6qsrG95qms5aNV45VAkjMzIf8t8/edit?usp=sharing
 [Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
+
+<!-- Labs -->
+[Lab 1]: Lessons/01-lab.md
 
 <!-- Assignments -->
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
