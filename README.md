@@ -36,24 +36,24 @@ By the end of the course, you will be able to ...
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
-|  1 | Mon, Aug 23 | [Semantic HTML] | Start Portfolio | - |
-|  2 | Wed, Aug 25 | [HTML Attributes] | Continue portfolio | - |
-|  3 | Fri, Aug 27 | [Review / Lab] | - | Interview Practice | 
-|  4 | Mon, Aug 30 | [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - |
-|  5 | Wed, Sep  1 | [CSS Intro] | [Learn Markup Level 2] | - |
-|  6 | Fri, Sep  3 | [CSS Box Model] | [CSS Challenges] | - |
+|  1 | Mon, Aug 23 | HTML [Semantic HTML] | Start Portfolio | - |
+|  2 | Wed, Aug 25 | HTML [HTML Attributes] | Continue portfolio | - |
+|  3 | Fri, Aug 27 | Review / Lab | - | Interview Practice | 
+|  4 | Mon, Aug 30 | HTML [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - |
+|  5 | Wed, Sep  1 | CSS [CSS Intro] | [Learn Markup Level 2] | - |
+|  6 | Fri, Sep  3 | Review / Lab | - | Interview Practice |
 |  7 | Mon, Sep  6 | Labor Day no class! | - | - |
-|  8 | Wed, Sep  8 | [Flexbox] | [Style Your Portfolio] <br>-AND-<br> [CSS Challenges 2] | [**Quiz 1**] |
-|  9 | Fri, Sep 10 | [Review / Lab] | - | - |
-| 10 | Mon, Sep 13 | [JavaScript Intro] | - | - |
-| 11 | Wed, Sep 15 | [JavaScript Syntax] | [Single Page Site] | [**Quiz 2**] |
-| 12 | Fri, Sep 17 | [Review / Lab] | - | Interview Practice |
-| 13 | Mon, Sep 20 | [JavaScript in the DOM] | - | - |
-| 14 | Wed, Sep 22 | [JavaScript Objects] | [Tip Calculator] | - |
-| 15 | Fri, Sep 24 | [Review / Lab] | - | Interview Practice |
-| 16 | Mon, Sep 27 | TBA | - | - |
-| 17 | Wed, Sep 29 | TBA | - | - |
-| 18 | Fri, Oct  1 | [Review / Lab] | - | Interview Practice |
+|  8 | Wed, Sep  8 | CSS [Background Images] |  | |
+|  9 | Fri, Sep 10 | Review / Lab | - | [**Quiz 1**]  |
+| 10 | Mon, Sep 13 | CSS [CSS Box Model] | [CSS Challenges] | - |
+| 11 | Wed, Sep 15 | CSS [Flexbox] | [Style Your Portfolio] <br>-AND-<br> [CSS Challenges 2] | - |
+| 12 | Fri, Sep 17 | Review / Lab | - | Interview Practice |
+| 13 | Mon, Sep 20 | JS [JavaScript Intro] | - | [**Quiz 2**] |
+| 14 | Wed, Sep 22 | JS [JavaScript Syntax] | [Single Page Site] | - |
+| 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
+| 16 | Mon, Sep 27 | JS [JavaScript in the DOM] | - | - |
+| 17 | Wed, Sep 29 | JS [JavaScript Objects] | [Tip Calculator] | - |
+| 18 | Fri, Oct  1 | Review / Lab | - | Interview Practice |
 | 19 | Mon, Oct  4 | TBA | - | - |
 | 19 | Wed, Oct  6 | TBA | - | - |
 | 20 | Fri, Oct  8 | Lab Day | [Custom Calculator] | [**Quiz 3**] |
@@ -65,7 +65,7 @@ By the end of the course, you will be able to ...
 [CSS Intro]: https://docs.google.com/presentation/d/1MgDBUG8lIsET5mK0w5EjvgajvaaOLhOYA73u8L26U_M/edit?usp=sharing
 [CSS Box Model]: https://docs.google.com/presentation/d/1vu5krTw-Pcm87-yWHXaeXcq5aMmybgds_Vb-a9naQF0/edit?usp=sharing
 [Flexbox]: https://docs.google.com/presentation/d/1hljwzQACcNQFbSRdnxD0cdq31dci47GW5moZm5S8cg8/edit?usp=sharing
-[Review / Lab]: https://docs.google.com/presentation/d/11UNl1R1qc5qZLIPyv1MwYDOMOmkKhvOMSL-PGyu4txQ/edit?usp=sharing
+[Background Images]: https://docs.google.com/presentation/d/11UNl1R1qc5qZLIPyv1MwYDOMOmkKhvOMSL-PGyu4txQ/edit?usp=sharing
 [JavaScript Intro]: https://docs.google.com/presentation/d/1NWNvI06x5utVlV8PBFhhIDZtrh8vNiCGC9H0zjGVTDU/edit?usp=sharing
 [JavaScript Syntax]: https://docs.google.com/presentation/d/1B6q0QxZI9tPDikUUW2JELjMKnFOT23iDrMMiJ5gLILY/edit?usp=sharing
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
