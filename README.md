@@ -39,14 +39,14 @@ By the end of the course, you will be able to ...
 |  1 | Mon, Aug 23 | HTML [Semantic HTML] | Start Portfolio | - |
 |  2 | Wed, Aug 25 | HTML [HTML Attributes] | Continue portfolio | - |
 |  3 | Fri, Aug 27 | [Lab 1] | Validate Portfolio | Interview Practice | 
-|  4 | Mon, Aug 30 | HTML [Forms & the DOM] | [Portfolio Part 1: Semantic Markup] | - |
-|  5 | Wed, Sep  1 | CSS [CSS Intro] | - | - |
-|  6 | Fri, Sep  3 | Review / Lab | - | Interview Practice |
+|  4 | Mon, Aug 30 | CSS [CSS Intro] | [Portfolio Part 1: Semantic Markup] | - |
+|  5 | Wed, Sep  1 | CSS [CSS Box Model] | - | - |
+|  6 | Fri, Sep  3 | [Lab 2] | - | Interview Practice |
 |  7 | Mon, Sep  6 | Labor Day no class! | - | - |
-|  8 | Wed, Sep  8 | CSS [Background Images] | - | - |
+|  8 | Wed, Sep  8 | CSS [Flexbox] | [Style Your Portfolio] | - |
 |  9 | Fri, Sep 10 | Review / Lab | - | [**Quiz 1**]  |
-| 10 | Mon, Sep 13 | CSS [CSS Box Model] | [CSS Challenges] | - |
-| 11 | Wed, Sep 15 | CSS [Flexbox] | [Style Your Portfolio] | - |
+| 10 | Mon, Sep 13 | CSS [Background Images] | | - |
+| 11 | Wed, Sep 15 |  |  | - |
 | 12 | Fri, Sep 17 | Review / Lab | - | Interview Practice |
 | 13 | Mon, Sep 20 | JS [JavaScript Intro] | - | [**Quiz 2**] |
 | 14 | Wed, Sep 22 | JS [JavaScript Syntax] | [Single Page Site] | - |
@@ -61,6 +61,7 @@ By the end of the course, you will be able to ...
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
 [HTML Attributes]: https://docs.google.com/presentation/d/1rA7yEzSz7k9vkpOj2kJmKXvTabp7gxrzbuqSJs__pVc/edit?usp=sharing
+<!-- Use this somewhere... -->
 [Forms & the DOM]: https://docs.google.com/presentation/d/1Z1Q4r6Kw9Ph34k3W2BNee_akYsH-HKVeH6BK4er2M7g/edit?usp=sharing
 [CSS Intro]: https://docs.google.com/presentation/d/1MgDBUG8lIsET5mK0w5EjvgajvaaOLhOYA73u8L26U_M/edit?usp=sharing
 [CSS Box Model]: https://docs.google.com/presentation/d/1vu5krTw-Pcm87-yWHXaeXcq5aMmybgds_Vb-a9naQF0/edit?usp=sharing
@@ -74,6 +75,7 @@ By the end of the course, you will be able to ...
 
 <!-- Labs -->
 [Lab 1]: Lessons/01-lab.md
+[Lab 2]: Lessons/02-lab.md
 
 <!-- Assignments -->
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
