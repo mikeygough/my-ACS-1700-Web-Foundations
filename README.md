@@ -43,20 +43,20 @@ By the end of the course, you will be able to ...
 |  5 | Wed, Sep  1 | CSS [CSS Box Model] | - | - |
 |  6 | Fri, Sep  3 | [Lab 2] | - | Interview Practice |
 |  7 | Mon, Sep  6 | Labor Day no class! | - | - |
-|  8 | Wed, Sep  8 | CSS [Flexbox] | [Style Your Portfolio] | - |
-|  9 | Fri, Sep 10 | Review / Lab | - | [**Quiz 1**]  |
-| 10 | Mon, Sep 13 | CSS [Background Images] | | - |
-| 11 | Wed, Sep 15 |  |  | - |
-| 12 | Fri, Sep 17 | Review / Lab | - | Interview Practice |
-| 13 | Mon, Sep 20 | JS [JavaScript Intro] | - | [**Quiz 2**] |
-| 14 | Wed, Sep 22 | JS [JavaScript Syntax] | [Single Page Site] | - |
+|  8 | Wed, Sep  8 | CSS [Grid] | [Style Your Portfolio] due! | - |
+|  9 | Fri, Sep 10 | [Lab 3] | - | Interview Practice |
+| 10 | Mon, Sep 13 | JS [JavaScript Intro] | - | - |
+| 11 | Wed, Sep 15 | JS [JavaScript Syntax] | - | - |
+| 12 | Fri, Sep 17 | Lab 4 | - | Interview Practice |
+| 13 | Mon, Sep 20 | JS [JavaScript in the DOM] | - | [Ecommerce Tutorial] |
+| 14 | Wed, Sep 22 | JS [JavaScript Objects] |  | - |
 | 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
-| 16 | Mon, Sep 27 | JS [JavaScript in the DOM] | - | - |
-| 17 | Wed, Sep 29 | JS [JavaScript Objects] | [Tip Calculator] | - |
+| 16 | Mon, Sep 27 | TBA | - | - |
+| 17 | Wed, Sep 29 | TBA | [Tip Calculator] | - |
 | 18 | Fri, Oct  1 | Review / Lab | - | Interview Practice |
 | 19 | Mon, Oct  4 | TBA | - | - |
-| 19 | Wed, Oct  6 | TBA | - | - |
-| 20 | Fri, Oct  8 | Lab Day | [Custom Calculator] | [**Quiz 3**] |
+| 19 | Wed, Oct  6 | Final Presentation | [Single Page Site] | - |
+| 20 | Fri, Oct  8 | Final Assessment | - | Interview Practice |
 
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
@@ -76,6 +76,7 @@ By the end of the course, you will be able to ...
 <!-- Labs -->
 [Lab 1]: Lessons/01-lab.md
 [Lab 2]: Lessons/02-lab.md
+[Lab 3]: Lessons/03-lab.md
 
 <!-- Assignments -->
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
@@ -86,6 +87,7 @@ By the end of the course, you will be able to ...
 [Single Page Site]: Assignments/05-Single-Page-Site.md
 [Tip Calculator]: Assignments/07-Tip-Calculator.md
 [Custom Calculator]: Assignments/11-Custom-Calculator.md
+[Ecommerce Tutorial]: https://github.com/Tech-at-DU/ecommerce-tutorial
 
 <!-- Quizzes -->
 [**Quiz 1**]: Assessments/quiz-1-study-guide.md
