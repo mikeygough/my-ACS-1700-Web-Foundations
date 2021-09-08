@@ -61,6 +61,8 @@ By the end of the course, you will be able to ...
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
 [HTML Attributes]: https://docs.google.com/presentation/d/1rA7yEzSz7k9vkpOj2kJmKXvTabp7gxrzbuqSJs__pVc/edit?usp=sharing
+[Grid]: https://docs.google.com/presentation/d/1FpgIKHFytKsZ2IUO3RXTcb5Ep8lptrerVKOEfaaA2UY/edit?usp=sharing
+
 <!-- Use this somewhere... -->
 [Forms & the DOM]: https://docs.google.com/presentation/d/1Z1Q4r6Kw9Ph34k3W2BNee_akYsH-HKVeH6BK4er2M7g/edit?usp=sharing
 [CSS Intro]: https://docs.google.com/presentation/d/1MgDBUG8lIsET5mK0w5EjvgajvaaOLhOYA73u8L26U_M/edit?usp=sharing
