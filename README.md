@@ -44,7 +44,7 @@ By the end of the course, you will be able to ...
 |  6 | Fri, Sep  3 | [Lab 2] | - | Interview Practice |
 |  7 | Mon, Sep  6 | Labor Day no class! | - | - |
 |  8 | Wed, Sep  8 | CSS [Grid] | [Style Your Portfolio] due! | - |
-|  9 | Fri, Sep 10 | [Lab 3] | - | Interview Practice |
+|  9 | Fri, Sep 10 | [Lab 3] - [Background Images] | - | Interview Practice |
 | 10 | Mon, Sep 13 | JS [JavaScript Intro] | - | - |
 | 11 | Wed, Sep 15 | JS [JavaScript Syntax] | - | - |
 | 12 | Fri, Sep 17 | Lab 4 | - | Interview Practice |
