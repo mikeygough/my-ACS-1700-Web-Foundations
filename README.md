@@ -10,7 +10,7 @@ This course covers the foundations of HTML, CSS, and JavaScript which are the bu
 
 The web is the biggest software platform and growing. The foundation material taught in this class at the core of all web technologies. Having a strong foundation is is important to becoming a strong developer. 
 
-## Prerequisites: 
+## Prerequisites:
 
 None
 
