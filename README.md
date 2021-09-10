@@ -48,7 +48,7 @@ By the end of the course, you will be able to ...
 | 10 | Mon, Sep 13 | JS [JavaScript Intro] | - | - |
 | 11 | Wed, Sep 15 | JS [JavaScript Syntax] | - | - |
 | 12 | Fri, Sep 17 | Lab 4 | - | Interview Practice |
-| 13 | Mon, Sep 20 | JS [JavaScript in the DOM] | - | [Ecommerce Tutorial] |
+| 13 | Mon, Sep 20 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | - |
 | 14 | Wed, Sep 22 | JS [JavaScript Objects] |  | - |
 | 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
 | 16 | Mon, Sep 27 | TBA | - | - |
