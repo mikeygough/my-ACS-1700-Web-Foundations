@@ -61,7 +61,7 @@ Use the markup below:
       <h2>GDP</h2>
       <p>257 billion</p>
     </div>
-		
+
     <div class="code grid-cell">
       <h2>Calling Code</h2>
       <p>+ 358</p>
