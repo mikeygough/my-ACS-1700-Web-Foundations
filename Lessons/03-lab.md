@@ -74,11 +74,11 @@ Use the markup below:
 
     <div class="news grid-cell">
       <h2>News</h2>
-			<label for="name">Name:</label>
-			<input id="name" type="text" placeholder="name"/>
-			<label for="email">Email:</label>
-			<input id="email" type="email" placeholder="email"/>
-			<button>Send</button>
+      <label for="name">Name:</label>
+      <input id="name" type="text" placeholder="name"/>
+      <label for="email">Email:</label>
+      <input id="email" type="email" placeholder="email"/>
+      <button>Send</button>
     </div>
 
   </div>
