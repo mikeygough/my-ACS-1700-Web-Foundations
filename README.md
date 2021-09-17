@@ -47,7 +47,7 @@ By the end of the course, you will be able to ...
 |  9 | Fri, Sep 10 | [Lab 3] - [Background Images] | - | Interview Practice |
 | 10 | Mon, Sep 13 | JS [JavaScript Intro] | - | - |
 | 11 | Wed, Sep 15 | JS [JavaScript Syntax] | - | - |
-| 12 | Fri, Sep 17 | Lab 4 | - | Interview Practice |
+| 12 | Fri, Sep 17 | [Lab 4] | - | Interview Practice |
 | 13 | Mon, Sep 20 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | - |
 | 14 | Wed, Sep 22 | JS [JavaScript Objects] |  | - |
 | 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
@@ -79,6 +79,7 @@ By the end of the course, you will be able to ...
 [Lab 1]: Lessons/01-lab.md
 [Lab 2]: Lessons/02-lab.md
 [Lab 3]: Lessons/03-lab.md
+[Lab 4]: Lessons/04-lab.md
 
 <!-- Assignments -->
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
