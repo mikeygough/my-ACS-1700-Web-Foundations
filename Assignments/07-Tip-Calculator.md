@@ -246,6 +246,21 @@ Add a menu below the tip input that allows us to choose common numbers like:
 - 18%
 - 20%
 
+To create the menu use the `<select>` element. Create menu items using `<option>` elements inside a `<select>`. 
+
+You can add an event listener to the `<select>` so give it an id. When you add an event listener the type of event should be `'change'`.
+
+When you get the value of currenly selected option it will be a string, the contents of the selected option or the value of the value attribute of that option. 
+
+Here is a code example:
+
+```HTML
+<select id="greeting">
+  <option>Hello!</option> <!-- value is "Hello!" -->
+  <option value="good morning">yo!</option> <!-- value is "good morning" -->
+</select>
+```
+
 ### Deliverable
 
 Your Completed Tip Calculator should be on GitHub. Submit your GitHub repo to Gradescope!
