@@ -51,7 +51,7 @@ By the end of the course, you will be able to ...
 | 13 | Mon, Sep 20 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | - |
 | 14 | Wed, Sep 22 | JS [JavaScript Objects] |  | - |
 | 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
-| 16 | Mon, Sep 27 | TBA | - | - |
+| 16 | Mon, Sep 27 | [Single Page Website] | - | - |
 | 17 | Wed, Sep 29 | TBA | [Tip Calculator] | - |
 | 18 | Fri, Oct  1 | Review / Lab | - | Interview Practice |
 | 19 | Mon, Oct  4 | TBA | - | - |
@@ -62,6 +62,8 @@ By the end of the course, you will be able to ...
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
 [HTML Attributes]: https://docs.google.com/presentation/d/1rA7yEzSz7k9vkpOj2kJmKXvTabp7gxrzbuqSJs__pVc/edit?usp=sharing
 [Grid]: https://docs.google.com/presentation/d/1FpgIKHFytKsZ2IUO3RXTcb5Ep8lptrerVKOEfaaA2UY/edit?usp=sharing
+
+[Single Page Website]: https://docs.google.com/presentation/d/1QQ_dOtn_O3E0PVS28Yg7MG0hz6fETo6diYt6hMBYfUI/edit?usp=sharing
 
 <!-- Use this somewhere... -->
 [Forms & the DOM]: https://docs.google.com/presentation/d/1Z1Q4r6Kw9Ph34k3W2BNee_akYsH-HKVeH6BK4er2M7g/edit?usp=sharing
