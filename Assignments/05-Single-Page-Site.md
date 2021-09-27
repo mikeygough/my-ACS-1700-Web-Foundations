@@ -56,7 +56,7 @@ These images have some notes on where flex is applied and which way the axis and
 
 You may want to use the starter code [here](https://github.com/Tech-at-DU/single-page-starter) to begin your single-page site.
 
-## JavaScript
+### JavaScript
 
 Your Single Page Site should make use of JavaScript. You can implement JS in any way that best suits your project. Here are some suggestions: 
 
@@ -67,7 +67,7 @@ Your Single Page Site should make use of JavaScript. You can implement JS in any
   - Geometry calculator. 
 - Quiz or questionare might be another good use. Think of the Flash Card CLI game but in JS in your web page. 
 
-### Example Sites 
+## Example Sites 
 
 All of these sites use this type of layout or some derivative. Draw inspiration from these for your work. Check these out and be inspired! 
 
@@ -81,19 +81,19 @@ All of these sites use this type of layout or some derivative. Draw inspiration 
 - https://wickret.cuberto.com
 - https://www.meandem.com/us
 
-### Deliverable
+## Deliverable
 
 Push your work to a GitHub repo, and then submit the repo to Gradescope!
 
-#### Stretch Goals
+### Stretch Goals
 
-- Publish as a [GitHub Pages site](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site) on GitHub.
-- Add one or more sections to your page. These can contain any information you like. 
+- Publish to [GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site).
+- Add another section to your site. 
 - Add an alternating layout (see the wire frame example)
-- Use your own photos
+- Use your own photos.
 - Use a [parallax effect](https://www.w3schools.com/howto/howto_css_parallax.asp) in a section 
 
-### Due date and Submission 
+## Due date and Submission 
 
 Check GradScope for due dates and submission. 
 
