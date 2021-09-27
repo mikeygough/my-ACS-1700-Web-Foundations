@@ -60,7 +60,7 @@ You may want to use the starter code [here](https://github.com/Tech-at-DU/single
 
 Your Single Page Site should make use of JavaScript. You can implement JS in any way that best suits your project. Here are some suggestions: 
 
-- Use the Animate on Scroll library. This is an easy way to add simple animations to any page. Import the library, initialize AOS and then apply AOS attributes to element on your page. 
+- Use the [Animate on Scroll library](https://michalsnik.github.io/aos/). This is an easy way to add simple animations to any page. Import the library, initialize AOS and then apply AOS attributes to element on your page. 
 - Create a custom calculator. If you choose a an S & L class topic there could be some calculation involved. You can show this in an interactive way with JS! Here are a few ideas: 
   - Resistor calculator, series and parallel resistance has a formula! Ohms law is another calculation!
   - Physics calculator. Too many options to choose from! 
@@ -77,7 +77,6 @@ All of these sites use this type of layout or some derivative. Draw inspiration 
 - https://www.theartoftexture.com
 - https://www.unfold.no
 - http://builtthings.com/#1
-- http://www.twofishillustration.com
 - https://raffinaderij.booreiland.amsterdam/minimalwim/
 - https://wickret.cuberto.com
 - https://www.meandem.com/us
