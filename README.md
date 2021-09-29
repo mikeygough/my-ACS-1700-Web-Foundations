@@ -52,7 +52,7 @@ By the end of the course, you will be able to ...
 | 14 | Wed, Sep 22 | JS [JavaScript Objects] |  | - |
 | 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
 | 16 | Mon, Sep 27 | [Single Page Website] | - | - |
-| 17 | Wed, Sep 29 | TBA | [Tip Calculator] | - |
+| 17 | Wed, Sep 29 | [Single Page Site Ideas] | [Tip Calculator] | - |
 | 18 | Fri, Oct  1 | Review / Lab | - | Interview Practice |
 | 19 | Mon, Oct  4 | TBA | - | - |
 | 19 | Wed, Oct  6 | Final Presentation | [Single Page Site] | - |
@@ -76,6 +76,8 @@ By the end of the course, you will be able to ...
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
 [JavaScript Objects]: https://docs.google.com/presentation/d/1SwvptLjD8dJ4jBqL6qsrG95qms5aNV45VAkjMzIf8t8/edit?usp=sharing
 [Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
+
+[Single Page Site Ideas]: https://docs.google.com/presentation/d/1OJmQw9LLnbGSHtlKSz3eF9EQN2q00atAkNLdU8n40e0/edit?usp=sharing
 
 <!-- Labs -->
 [Lab 1]: Lessons/01-lab.md
