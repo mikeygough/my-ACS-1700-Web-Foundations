@@ -53,7 +53,7 @@ By the end of the course, you will be able to ...
 | 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
 | 16 | Mon, Sep 27 | [Single Page Website] | - | - |
 | 17 | Wed, Sep 29 | [Single Page Site Ideas] | [Tip Calculator] | - |
-| 18 | Fri, Oct  1 | Review / Lab | - | Interview Practice |
+| 18 | Fri, Oct  1 | [Event Delegation] | - | Lab |
 | 19 | Mon, Oct  4 | TBA | - | - |
 | 19 | Wed, Oct  6 | Final Presentation | [Single Page Site] | - |
 | 20 | Fri, Oct  8 | Final Assessment | - | Interview Practice |
@@ -84,7 +84,7 @@ By the end of the course, you will be able to ...
 [Lab 2]: Lessons/02-lab.md
 [Lab 3]: Lessons/03-lab.md
 [Lab 4]: Lessons/04-lab.md
-[Review / Lab]: 06-review.md
+[Event Delegation]: Lessons/15-event-delegation.md
 
 <!-- Assignments -->
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md

@@ -1,4 +1,22 @@
-# Review 
+# Event Delegation
+
+Event Delegation is the idea of using a single listener to handle events from many different elements.
+
+Event delegation is important when you have pages that create dynamic content. Event delegation offers the following advanatges: 
+
+- Only one event and one handler handle events
+- Saves computing resources since there will only be one listener
+- Prevents memory leaks
+
+Event Delegation takes advantage of event bubbling. Event Bubbling is the process of passing an event from child to parent. To understand event bubbling take a look at this page: https://javascript.info/bubbling-and-capturing
+
+JavaScript.info is a great site the examples are very good. They also have a page on Event Delegation. Take a look at it here: https://javascript.info/event-delegation
+
+Take a look at this example to experiment with event delegation yourself: 
+
+https://github.com/Tech-at-DU/ACS-1700-class-15
+
+## Lab Time
 
 Use today to review your work. Choose What you want to do:
 
