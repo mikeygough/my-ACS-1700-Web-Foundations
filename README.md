@@ -77,8 +77,6 @@ By the end of the course, you will be able to ...
 [JavaScript Objects]: https://docs.google.com/presentation/d/1SwvptLjD8dJ4jBqL6qsrG95qms5aNV45VAkjMzIf8t8/edit?usp=sharing
 <!-- [Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing -->
 
-
-
 [Single Page Site Ideas]: https://docs.google.com/presentation/d/1OJmQw9LLnbGSHtlKSz3eF9EQN2q00atAkNLdU8n40e0/edit?usp=sharing
 
 <!-- Labs -->
