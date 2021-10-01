@@ -75,7 +75,9 @@ By the end of the course, you will be able to ...
 [JavaScript Syntax]: https://docs.google.com/presentation/d/1B6q0QxZI9tPDikUUW2JELjMKnFOT23iDrMMiJ5gLILY/edit?usp=sharing
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
 [JavaScript Objects]: https://docs.google.com/presentation/d/1SwvptLjD8dJ4jBqL6qsrG95qms5aNV45VAkjMzIf8t8/edit?usp=sharing
-[Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
+<!-- [Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing -->
+
+
 
 [Single Page Site Ideas]: https://docs.google.com/presentation/d/1OJmQw9LLnbGSHtlKSz3eF9EQN2q00atAkNLdU8n40e0/edit?usp=sharing
 
@@ -84,6 +86,7 @@ By the end of the course, you will be able to ...
 [Lab 2]: Lessons/02-lab.md
 [Lab 3]: Lessons/03-lab.md
 [Lab 4]: Lessons/04-lab.md
+[Review / Lab]: 06-review.md
 
 <!-- Assignments -->
 [Portfolio Part 1: Semantic Markup]: Assignments/01-Portfolio-Part-1-Structure.md
