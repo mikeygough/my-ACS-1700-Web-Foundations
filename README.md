@@ -30,33 +30,36 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Monday, August 23 – Friday, October 8, 2021
+**Course Dates:** Thursday, August 18 – Tuesday, October 4, 2022
 
-**Class Times:** Monday, Wednesday and Friday at 1:30 PM PST – 3:20 PM PST
+**Class Times:** Tuesday and Thusrday 9:30 AM to 12:15 PM
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
-|  1 | Mon, Aug 23 | HTML [Semantic HTML] | Start Portfolio | - |
-|  2 | Wed, Aug 25 | HTML [HTML Attributes] | Continue portfolio | - |
-|  3 | Fri, Aug 27 | [Lab 1] | Validate Portfolio | Interview Practice | 
-|  4 | Mon, Aug 30 | CSS [CSS Intro] | [Portfolio Part 1: Semantic Markup] | - |
-|  5 | Wed, Sep  1 | CSS [CSS Box Model] | - | - |
-|  6 | Fri, Sep  3 | [Lab 2] | - | Interview Practice |
-|  7 | Mon, Sep  6 | Labor Day no class! | - | - |
-|  8 | Wed, Sep  8 | CSS [Grid] | [Style Your Portfolio] due! | - |
-|  9 | Fri, Sep 10 | [Lab 3] - [Background Images] | - | Interview Practice |
-| 10 | Mon, Sep 13 | JS [JavaScript Intro] | - | - |
-| 11 | Wed, Sep 15 | JS [JavaScript Syntax] | - | - |
-| 12 | Fri, Sep 17 | [Lab 4] | - | Interview Practice |
-| 13 | Mon, Sep 20 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | - |
-| 14 | Wed, Sep 22 | JS [JavaScript Objects] |  | - |
-| 15 | Fri, Sep 24 | Review / Lab | - | Interview Practice |
-| 16 | Mon, Sep 27 | [Single Page Website] | - | - |
-| 17 | Wed, Sep 29 | [Single Page Site Ideas] | [Tip Calculator] | - |
-| 18 | Fri, Oct  1 | [Event Delegation] | - | Lab |
-| 19 | Mon, Oct  4 | TBA | - | - |
-| 19 | Wed, Oct  6 | Final Presentation | [Single Page Site] | - |
-| 20 | Fri, Oct  8 | Final Assessment | - | Interview Practice |
+|  1 | Thu, Aug 18 | HTML [Semantic HTML] | Start Portfolio | - |
+|  2 | Tue, Aug 23 | HTML [HTML Attributes] | Continue portfolio | - |
+|  3 | Thu, Aug 25 | [Lab 1] | Validate Portfolio | Interview Practice | 
+|  4 | Tue, Aug 30 | CSS [CSS Intro] | [Portfolio Part 1: Semantic Markup] | - |
+|  5 | Thu, Sep  1 | CSS [CSS Box Model] | - | - |
+|  6 | Tue, Sep  6 | [Lab 2] | - | Interview Practice |
+|  7 | Thu, Sep  8 | Labor Day no class! | - | - |
+|  8 | Tue, Sep 13 | CSS [Grid] | [Style Your Portfolio] due! | - |
+|  9 | Thu, Sep 15 | [Lab 3] - [Background Images] | - | Interview Practice |
+| 10 | Tue, Sep 13 | JS [JavaScript Intro] | - | - |
+| 11 | Thu, Sep 15 | JS [JavaScript Syntax] | - | - |
+| 12 | Tue, Sep 20 | [Lab 4] | - | Interview Practice |
+| 13 | Thu, Sep 22 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | - |
+| 14 | Tue, Sep 27 | JS [JavaScript Objects] |  | - |
+| 15 | Thu, Sep 29 | Review / Lab | - | Interview Practice |
+| 16 | Tue, Oct  4 | [Single Page Website] | - | - |
+
+
+<!-- | 17 | Thu, Oct  6 | [Single Page Site Ideas] | [Tip Calculator] | - |
+| 18 | Tue, Oct  1 | [Event Delegation] | - | Lab |
+| 19 | Thu, Oct  4 | TBA | - | - |
+| 19 | Tue, Oct  6 | Final Presentation | [Single Page Site] | - |
+| 20 | Thu, Oct  8 | Final Assessment | - | Interview Practice | -->
+
 
 <!-- Lessons -->
 [Semantic HTML]: https://docs.google.com/presentation/d/1WEp028oiQTRA9Euz9owhxgvgQbXF3wFSR48Qdskcbns/edit?usp=sharing
