@@ -29,13 +29,30 @@ This assignment must be submitted through Gradescope.
         - GitHub
         - Other social media Instagram, FB, etc.
 
-Mark up your content. Use the following tags.
+Mark up your content. Use the following tags. Besides writing the tags into your page, use them correctly! Read about the purpose of each tag. Ask yourself about what this tag says about the content it displays. Your most important goal for this assignment is to use the tags correctly.
 
-- [article](https://www.w3schools.com/tags/tag_article.asp), [section](https://www.w3schools.com/tags/tag_section.asp)
-- [nav](https://www.w3schools.com/tags/tag_nav.asp), [main](https://www.w3schools.com/tags/tag_main.asp)
-- [footer](https://www.w3schools.com/tags/tag_footer.asp), [header](https://www.w3schools.com/tags/tag_header.asp)
+- [section](https://www.w3schools.com/tags/tag_section.asp)
+- [nav](https://www.w3schools.com/tags/tag_nav.asp)
+- [main](https://www.w3schools.com/tags/tag_main.asp)
+- [footer](https://www.w3schools.com/tags/tag_footer.asp)
+- [header](https://www.w3schools.com/tags/tag_header.asp)
+- [article](https://www.w3schools.com/tags/tag_article.asp)
+- [p](https://www.w3schools.com/tags/tag_p.asp)
 - [h1-6](https://www.w3schools.com/tags/tag_hn.asp)
 - [ul, li](https://www.w3schools.com/html/html_lists.asp)
+
+Stretch goals! If you want to do more or the items listed above are too easy or familiar include these tags: 
+
+- [img](https://www.w3schools.com/tags/tag_img.asp)
+- [time](https://www.w3schools.com/tags/tag_time.asp)
+- [blockquote](https://www.w3schools.com/tags/tag_blockquote.asp)
+- [audio](https://www.w3schools.com/tags/tag_audio.asp)
+- [video](https://www.w3schools.com/tags/tag_video.asp)
+- [abbr](https://www.w3schools.com/TAgs/tag_abbr.asp)
+- [address](https://www.w3schools.com/TAgs/tag_address.asp)
+- [aside](https://www.w3schools.com/TAgs/tag_aside.asp)
+- [figure](https://www.w3schools.com/TAgs/tag_figure.asp)
+- [figcaption](https://www.w3schools.com/TAgs/tag_figcaption.asp)
 
 ### Videos
 
@@ -44,6 +61,18 @@ To help you complete this assignment, the following videos will walk you through
 https://www.youtube.com/embed/wTxHYtNVrEw
 
 https://www.youtube.com/embed/BoSkgteRoKg
+
+## DO NOT ADD STYLES!
+
+This project is about markup. It's not about what it looks like its about the markup and structure! 
+
+Why not style it? The web is built on the concept of separation of concerns. This divides the coding process into three areas with a language for each. 
+
+- Markup and structure: HTML
+- Style and presentation: CSS
+- Logic interaction: JavaScript
+
+In this assignment I want you to focus on the markup and structure of your documents. Do this to develop a deep understanding of the purpose and usage of the HTML language. 
 
 ### Deliverable
 
