@@ -51,7 +51,7 @@ By the end of the course, you will be able to ...
 | 13 | Thu, Sep 22 | JS [JavaScript in the DOM] | [Single Page Site Ideas] | - |
 | 14 | Tue, Sep 27 | JS [JavaScript Objects] | [Event Delegation] | - |
 | 15 | Thu, Sep 29 | Review / Lab | - | Interview Practice |
-| 16 | Tue, Oct  4 | [Single Page Website] | - | - |
+| 16 | Tue, Oct  4 | - | [Single Page Website] | - |
 
 <!-- | 17 | Thu, Oct  6 | [Single Page Site Ideas] | [Tip Calculator] | - |
 | 18 | Tue, Oct  1 | [Event Delegation] | - | Lab |
