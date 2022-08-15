@@ -45,6 +45,18 @@ https://www.youtube.com/embed/wTxHYtNVrEw
 
 https://www.youtube.com/embed/BoSkgteRoKg
 
+## DO NOT ADD STYLES!
+
+This project is about markup. It's not about what it looks like its about the markup and structure! 
+
+Why not style it? The web is built on the concept of separation of concerns. This divides the coding process into three areas with a language for each. 
+
+- Markup and structure: HTML
+- Style and presentation: CSS
+- Logic interaction: JavaScript
+
+In this assignment I want you to focus on the markup and structure of your documents. Do this to develop a deep understanding of the purpose and usage of the HTML language. 
+
 ### Deliverable
 
 You must submit your `index.html` to Gradescope. Find the assignment in your list of assignments for the class. When submitting your assignment, select the `Upload` option, and add the `index.html` file for submitting.
