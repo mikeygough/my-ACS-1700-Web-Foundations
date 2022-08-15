@@ -38,8 +38,8 @@ By the end of the course, you will be able to ...
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
 |  1 | Thu, Aug 18 | HTML [Semantic HTML] | Start Portfolio | - |
 |  2 | Tue, Aug 23 | HTML [HTML Attributes] | Continue portfolio | - |
-|  3 | Thu, Aug 25 | [Lab 1] | Validate Portfolio | Interview Practice | 
-|  4 | Tue, Aug 30 | CSS [CSS Intro] | [Portfolio Part 1: Semantic Markup] | - |
+|  3 | Thu, Aug 25 | [Lab 1] | [Portfolio Part 1: Semantic Markup] Validate Portfolio | Interview Practice | 
+|  4 | Tue, Aug 30 | CSS [CSS Intro] |  | - |
 |  5 | Thu, Sep  1 | CSS [CSS Box Model] | - | - |
 |  6 | Tue, Sep  6 | [Lab 2] | - | Interview Practice |
 |  7 | Thu, Sep  8 | Labor Day no class! | - | - |
@@ -47,12 +47,11 @@ By the end of the course, you will be able to ...
 |  9 | Thu, Sep 15 | [Lab 3] - [Background Images] | - | Interview Practice |
 | 10 | Tue, Sep 13 | JS [JavaScript Intro] | - | - |
 | 11 | Thu, Sep 15 | JS [JavaScript Syntax] | - | - |
-| 12 | Tue, Sep 20 | [Lab 4] | - | Interview Practice |
-| 13 | Thu, Sep 22 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | - |
-| 14 | Tue, Sep 27 | JS [JavaScript Objects] |  | - |
+| 12 | Tue, Sep 20 | [Lab 4] | [Ecommerce Tutorial] | Interview Practice |
+| 13 | Thu, Sep 22 | JS [JavaScript in the DOM] | [Single Page Site Ideas] | - |
+| 14 | Tue, Sep 27 | JS [JavaScript Objects] | [Event Delegation] | - |
 | 15 | Thu, Sep 29 | Review / Lab | - | Interview Practice |
 | 16 | Tue, Oct  4 | [Single Page Website] | - | - |
-
 
 <!-- | 17 | Thu, Oct  6 | [Single Page Site Ideas] | [Tip Calculator] | - |
 | 18 | Tue, Oct  1 | [Event Delegation] | - | Lab |
