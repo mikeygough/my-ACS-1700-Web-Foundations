@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 | 12 | Tue, Sep 20 | [Lab 4] | [Ecommerce Tutorial] | Interview Practice |
 | 13 | Thu, Sep 22 | JS [JavaScript in the DOM] | [Single Page Site Ideas] | - |
 | 14 | Tue, Sep 27 | JS [JavaScript Objects] | [Event Delegation] | - |
-| 15 | Thu, Sep 29 | Review / Lab | - | Interview Practice |
+| 15 | Thu, Sep 29 | Final Assessment | - | Interview Practice |
 | 16 | Tue, Oct  4 | - | [Single Page Website] | - |
 
 <!-- | 17 | Thu, Oct  6 | [Single Page Site Ideas] | [Tip Calculator] | - |
