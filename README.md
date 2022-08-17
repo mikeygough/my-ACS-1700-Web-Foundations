@@ -40,8 +40,8 @@ By the end of the course, you will be able to ...
 |  2 | Tue, Aug 23 | HTML [HTML Attributes] | Continue portfolio | - |
 |  3 | Thu, Aug 25 | [Lab 1] | [Portfolio Part 1: Semantic Markup] Validate Portfolio | Interview Practice | 
 |  4 | Tue, Aug 30 | CSS [CSS Intro] | Start styling your portfolio | - |
-|  5 | Thu, Sep  1 | CSS [CSS Box Model] | Continue styleing portfolio | - |
-|  6 | Tue, Sep  6 | [Lab 2] | - | Interview Practice |
+|  5 | Thu, Sep  1 | CSS [CSS Box Model] | Continue styling portfolio | - |
+|  6 | Tue, Sep  6 | [Lab 2] | Continue styling portfolio | Interview Practice |
 |  7 | Thu, Sep  8 | Labor Day no class! | - | - |
 |  8 | Tue, Sep 13 | CSS [Grid] | [Style Your Portfolio] due! | - |
 |  9 | Thu, Sep 15 | [Lab 3] - [Background Images] | Start ecommerce tutorial | Interview Practice |
