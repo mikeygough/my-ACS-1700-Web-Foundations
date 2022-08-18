@@ -4,7 +4,11 @@
 
 Use Semantic markup to create a portfolio for yourself. Eventually you will style and publish your portfolio. In this assignment you will create the general content of the portfolio and mark it up semantically.
 
-Remember: Semantic HTML isn't about making a web page look good. That's what CSS is for (and we'll get to that later). Aim to design a page that is perfectly understandable to a visually impaired person, or a robot (such as a Google web crawler).
+**Remember:** Semantic HTML isn't about making a web page look good. That's what CSS is for (and we'll get to that later). Aim to design a page that is perfectly understandable to a visually impaired person, or a robot (such as a Google web crawler).
+
+**The deliverable is a web page.** _If you don't want to create a portfolio you can create a web page for something else._ 
+
+**Important!** To complete this assignment you need to have something to markup. **You should write the content first _before adding the markup!_**. Think about what each element is and how the markup will add semantic meaning to that element.
 
 ### Why this assignment?
 
@@ -53,6 +57,12 @@ Stretch goals! If you want to do more or the items listed above are too easy or 
 - [aside](https://www.w3schools.com/TAgs/tag_aside.asp)
 - [figure](https://www.w3schools.com/TAgs/tag_figure.asp)
 - [figcaption](https://www.w3schools.com/TAgs/tag_figcaption.asp)
+
+**If you have experience making web pages or find this assignment too easy try these.**
+
+- Pay really close attention to the tags used. If you used a lot of div tags you should look at the tag list above and use those instead. 
+- Try marking up these pages for practice. Pay close attention to semantics and syntax.
+- Markup a second or third page for practice. 
 
 ### Videos
 
