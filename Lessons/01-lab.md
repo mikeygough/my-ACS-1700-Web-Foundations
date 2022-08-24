@@ -31,7 +31,7 @@ Review your work with a team memeber. Discuss their feedback and apply it to you
 
 ## Submit your work
 
-Submit your work to GradeScope. Register for this course: ACS 1700 with the code: 4PY3PB
+Submit your work to GradeScope.
 
 Upload your mark problem under the assignment: Markup Assessment
 
