@@ -15,10 +15,11 @@ Your goal is to style your portfolio page. You will do this by adding a a style 
 Keep in mind that CSS is applied to elements on the page through selectors. Selectors target elements on the page either by an identifier: 
 
 - tag name
-- class name 
-- id name 
+- class name  
 
-Or by the DOM structure using selectors: descendent (`section h1`) or child (`section > h1`). Review your selectors here: [CSS Diner](https://flukeout.github.io). You don't have to know all of these now, if you can master the first 9 you're doing great!
+**Professional best practice!** Use tag names first. If you can't style something with a tag name then use a class. This will happen when you you have two elements that use the same tag name but you want to give them two different styles. 
+
+**Adavced**: use the DOM structure with selectors like: descendent (`section h1`) or child (`section > h1`). Review your selectors here: [CSS Diner](https://flukeout.github.io). You don't have to know all of these now, if you can master the first 9 you're doing great!
 
 ### Personal portfolio site
 
@@ -27,21 +28,21 @@ Use the CSS covered in class to style your portfolio page. Create a `styles.css`
 Make use of at least these style properties: 
 
 - Typography
-    - font-family
-    - font-size
-    - font-weight
-    - color
+    - `font-family`
+    - `font-size`
+    - `font-weight`
+    - `color`
 - layout
-    - flex
-    - margin
-    - padding
+    - `flex`
+    - `margin`
+    - `padding`
 - background
-    - background-color
-    - border-color
-    - border-width
-    - border-style
+    - `background-color`
+    - `border-color`
+    - `border-width`
+    - `border-style`
 
-If you're not sure how to apply these refer to the challenges in class and borrow ideas. 
+If you're not sure how to apply these refer to the [CSS challenges](https://github.com/Tech-at-DU/CSS-Challenges) and borrow ideas. 
 
 ### Deliverable
 
