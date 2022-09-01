@@ -12,21 +12,6 @@
 				/*  */
 			}
 
-			test {
-				padding: 10mm; /* All sides */
-				padding: 10% 20%; /* top/bottom left/right */
-				padding: 1em 2em 0.5em 0.25em; /* t r b l */
-
-
-				color: rgb(255, 0, 0);
-				color: rgba();
-				color: hsl();
-				color: hsla();
-				color: #229;
-				color: #ff0000;
-				color: #29292966;
-			}
-
 			body {
 				tab-size: 2;
 				font-size: 20px;
@@ -34,6 +19,7 @@
 
 			.container {
 				display: flex;
+        justify-content: center;
 			}
 
 			.code-zone {
@@ -81,12 +67,38 @@
 			select {
 				width: auto
 			}
+
+      .default-code {
+        margin: 2em;
+      }
 		</style>
 	</head>
 	<body>
-
-
 		<div class="container">
+
+<div class="default-code">
+  <h1>Markup</h1>
+<pre><code>
+&lt;div id=&quot;box-zone&quot;&gt;
+  &lt;div class=&quot;box&quot;&gt;
+    Hello World
+  &lt;/div&gt;
+&lt;/div&gt;</code>
+        </pre>
+
+  <h1>CSS</h1>
+  <pre><code>
+#box-zone {
+  border: 4px solid #999;
+  width: 600px;
+  height: 600px;
+}</code>
+</pre>
+</div>
+
+
+
+
 			<div id="box-zone">
 				<div class="box">
 					Hello World
@@ -120,26 +132,6 @@
 }
 				</pre>
 				<textarea id="text-area">Hello World</textarea>
-			</div>
-
-			<div>
-				<h1>Markup</h1>
-<pre><code>
-&lt;div id=&quot;box-zone&quot;&gt;
-	&lt;div class=&quot;box&quot;&gt;
-		Hello World
-	&lt;/div&gt;
-&lt;/div&gt;</code>
-				</pre>
-
-<h1>CSS</h1>
-<pre><code>
-#box-zone {
-	border: 4px solid #999;
-	width: 600px;
-	height: 600px;
-}</code>
-				</pre>
 			</div>
 
 		</div>
