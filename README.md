@@ -42,9 +42,9 @@ By the end of the course, you will be able to ...
 |  4 | Tue, Aug 30 | CSS [CSS Intro] | - | - |
 |  5 | Thu, Sep  1 | CSS [CSS Box Model] | [CSS Challenges] | - |
 |  6 | Tue, Sep  6 | [Lab 2] | Continue styling portfolio | Interview Practice |
-|  7 | Thu, Sep  8 | Labor Day no class! | - | - |
-|  8 | Tue, Sep 13 | CSS [Grid] | [Style Your Portfolio] due! | - |
-|  9 | Thu, Sep 15 | [Lab 3] - [Background Images] | Start ecommerce tutorial | Interview Practice |
+|  7 | Thu, Sep  8 | CSS [Grid] | - | - |
+|  8 | Tue, Sep 13 | [Background Images] | [Style Your Portfolio] due! | - |
+|  9 | Thu, Sep 15 | [Lab 3] | Start ecommerce tutorial | Interview Practice |
 | 10 | Tue, Sep 13 | JS [JavaScript Intro] | Continue ecommerce tutorial | - |
 | 11 | Thu, Sep 15 | JS [JavaScript Syntax] | Continue ecommerce tutorial | - |
 | 12 | Tue, Sep 20 | [Lab 4] | [Ecommerce Tutorial] | Interview Practice |
