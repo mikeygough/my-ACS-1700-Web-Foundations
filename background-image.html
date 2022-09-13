@@ -99,6 +99,10 @@
 			justify-content: center;
 			align-items: center;
 		}
+
+		input {
+			width: 120px;
+		}
 	</style>
 </head>
 
@@ -114,15 +118,6 @@
 		<option></option>
 		<option>url(images/cat.png)</option>
 		<option>url(images/pattern.jpg)</option>
-	</select>;
-	background-size: <select id="backgroundSize">
-		<option>auto</option>
-		<option>cover</option>
-		<option>contain</option>
-		<option>40px</option>
-		<option>100px</option>
-		<option>50%</option>
-		<option>100%</option>
 	</select>;
 	background-repeat: <select id="backgroundRepeat">
 		<option>repeat-x</option>
@@ -140,6 +135,15 @@
 		<option>center top</option>
 		<option>center</option>
 		<option>center bottom</option>
+	</select>;
+	background-size: <select id="backgroundSize">
+		<option>auto</option>
+		<option>cover</option>
+		<option>contain</option>
+		<option>40px</option>
+		<option>100px</option>
+		<option>50%</option>
+		<option>100%</option>
 	</select>;
 	background-size: <input id="backgroundSize" type="text">
 }</code></pre>
