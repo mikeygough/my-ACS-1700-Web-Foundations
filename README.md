@@ -45,14 +45,13 @@ By the end of the course, you will be able to ...
 |  7 | Thu, Sep  8 | CSS [Grid] | - | - |
 |  8 | Tue, Sep 13 | [Background Images] | [Style Your Portfolio] due! | - |
 |  9 | Thu, Sep 15 | [Lab 3] | Start ecommerce tutorial | Interview Practice |
-| 10 | Tue, Sep 13 | JS [JavaScript Intro] | Continue ecommerce tutorial | - |
-| 11 | Thu, Sep 15 | JS [JavaScript Syntax] | Continue ecommerce tutorial | - |
-| 12 | Tue, Sep 20 | [Lab 4] | [Ecommerce Tutorial] | Interview Practice |
-| 13 | Thu, Sep 22 | JS [JavaScript in the DOM] | [Single Page Site Ideas] | - |
-| 14 | Tue, Sep 27 | JS [JavaScript Objects] | [Event Delegation] | - |
-| 15 | Thu, Sep 29 | Final Assessment | - | Interview Practice |
-| 16 | Tue, Oct  4 | - | [Single Page Website] | - |
-
+| 10 | Tue, Sep 20 | JS [JavaScript Syntax] | Continue ecommerce tutorial | - |
+| 11 | Thu, Sep 22 | JS [JavaScript Intro] | Continue ecommerce tutorial | - |
+| 12 | Tue, Sep 27 | [Lab 4] | [Ecommerce Tutorial] | Interview Practice |
+| 13 | Thu, Sep 29 | JS [JavaScript in the DOM] | [Single Page Site Ideas] | - |
+<!-- | 14 | Tue, Oct  4 | JS [JavaScript Objects] | [Event Delegation] | - | -->
+| 14 | Tue, Oct  4 | Final Assessment | - | Interview Practice |
+<!-- | 16 | Tue, Oct  4 | - | [Single Page Website] | - | -->
 <!-- | 17 | Thu, Oct  6 | [Single Page Site Ideas] | [Tip Calculator] | - |
 | 18 | Tue, Oct  1 | [Event Delegation] | - | Lab |
 | 19 | Thu, Oct  4 | TBA | - | - |
