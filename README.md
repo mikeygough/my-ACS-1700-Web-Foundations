@@ -43,12 +43,12 @@ By the end of the course, you will be able to ...
 |  5 | Thu, Sep  1 | CSS [CSS Box Model] | [CSS Challenges] | - |
 |  6 | Tue, Sep  6 | [Lab 2] | Continue styling portfolio | Interview Practice |
 |  7 | Thu, Sep  8 | CSS [Grid] | - | - |
-|  8 | Tue, Sep 13 | [Background Images] | [Style Your Portfolio] due! | - |
-|  9 | Thu, Sep 15 | [Lab 3] | Start ecommerce tutorial | Interview Practice |
-| 10 | Tue, Sep 20 | JS [JavaScript Syntax] | Continue ecommerce tutorial | - |
-| 11 | Thu, Sep 22 | JS [JavaScript Intro] | Continue ecommerce tutorial | - |
-| 12 | Tue, Sep 27 | [Lab 4] | [Ecommerce Tutorial] | Interview Practice |
-| 13 | Thu, Sep 29 | JS [JavaScript in the DOM] | [Single Page Site Ideas] | - |
+|  8 | Tue, Sep 13 | [Background Images] | [Style Your Portfolio] due! | [Lab 3] |
+|  9 | Thu, Sep 15 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | Interview Practice |
+| 10 | Tue, Sep 20 | JS [JavaScript Intro] | Continue ecommerce tutorial | - |
+| 11 | Thu, Sep 22 | [Lab 4] | Continue ecommerce tutorial | - |
+| 12 | Tue, Sep 27 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | Interview Practice |
+| 13 | Thu, Sep 29 |  | [Single Page Site Ideas] | - |
 <!-- | 14 | Tue, Oct  4 | JS [JavaScript Objects] | [Event Delegation] | - | -->
 | 14 | Tue, Oct  4 | Final Assessment | - | Interview Practice |
 <!-- | 16 | Tue, Oct  4 | - | [Single Page Website] | - | -->
