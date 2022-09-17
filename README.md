@@ -45,7 +45,7 @@ By the end of the course, you will be able to ...
 |  7 | Thu, Sep  8 | CSS [Grid] | - | - |
 |  8 | Tue, Sep 13 | [Background Images] | [Style Your Portfolio] due! | [Lab 3] |
 |  9 | Thu, Sep 15 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | Interview Practice |
-| 10 | Tue, Sep 20 | JS [JavaScript Intro] | Continue ecommerce tutorial | - |
+| 10 | Tue, Sep 20 | JS [Event Listeners] | Continue ecommerce tutorial | - |
 | 11 | Thu, Sep 22 | [Lab 4] | Continue ecommerce tutorial | - |
 | 12 | Tue, Sep 27 | JS [JavaScript in the DOM] | [Ecommerce Tutorial] | Interview Practice |
 | 13 | Thu, Sep 29 |  | [Single Page Site Ideas] | - |
@@ -76,6 +76,7 @@ By the end of the course, you will be able to ...
 [JavaScript in the DOM]: https://docs.google.com/presentation/d/1FtUUrQW-1E4v3TTD5J1af66RdpyWHu4P_UBl_fMtNio/edit?usp=sharing
 [JavaScript Objects]: https://docs.google.com/presentation/d/1SwvptLjD8dJ4jBqL6qsrG95qms5aNV45VAkjMzIf8t8/edit?usp=sharing
 <!-- [Review / Lab]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing -->
+[Event Listeners]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
 
 [Single Page Site Ideas]: https://docs.google.com/presentation/d/1OJmQw9LLnbGSHtlKSz3eF9EQN2q00atAkNLdU8n40e0/edit?usp=sharing
 
