@@ -32,7 +32,7 @@
 			background-color: rgb(54, 154, 154);
 		}
 
-		#input-text {
+		input {
 			font-size: 1em;
 			padding: 0.5em;
 			border: 1px solid;
@@ -48,7 +48,7 @@
       <div id="box">Box</div>
 
       <input id="input-text" type="text" placeholder="input text">
-
+      <input type="text">
       <h1>Events: What just happened?</h1>
       <p id="message"></p>
     </div>
@@ -89,6 +89,8 @@ window.addEventListener('resize', (e) => {
   </div>
 
 	<script>
+    console.log('Hello World')
+    console.log('Foo Bar')
     // Use querySelector to get references to some elements in the DOM
     // match the ID names here to the ID names in the tags. 
     // I assigned these to variables so they can be used more than once. 
@@ -119,20 +121,32 @@ window.addEventListener('resize', (e) => {
     // Listen for a 'focus' event at the input. Focus happens when you click or tab
     // a text field and the keyboard will entertext there. 
     inputText.addEventListener('focus', () => {
+      console.log('Input text focus')
       message.innerHTML = 'input "focus"'
     })
 
     // Listen for an 'input' event at the input. Input occurs when the value of the
     // input changes!
     inputText.addEventListener('input', (e) => {
+      console.log('Input event')
+      console.log(e)
       // Use the event object e to get the value and display it. 
       message.innerHTML = `input "input": ${e.target.value}`
+    })
+
+    inputText.addEventListener('blur', (e) => {
+      console.log('Text input loses focus (blur)')
     })
 
     // Listen for a 'resize' event at the window. Resize occurs when the window
     // changes size. The window is the parent of your HTML document. 
     window.addEventListener('resize', () => {
       message.innerHTML = `window "resize" width:${window.innerWidth} height:${window.innerHeight}`
+    })
+
+    document.body.addEventListener('click', (e) => {
+      console.log('Body Click event')
+      console.log(e.target)
     })
 
     // The events you have seen above were: mouseover, click, mousemove, focus
