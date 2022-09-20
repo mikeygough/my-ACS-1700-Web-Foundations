@@ -89,34 +89,71 @@ window.addEventListener('resize', (e) => {
   </div>
 
 	<script>
+    // Use querySelector to get references to some elements in the DOM
+    // match the ID names here to the ID names in the tags. 
+    // I assigned these to variables so they can be used more than once. 
+    // I declared them with const because these variables will not be reassigned!
     const clickMe = document.querySelector('#click-me')
     const message = document.querySelector('#message')
     const box = document.querySelector('#box')
     const inputText = document.querySelector('#input-text')
 
-    clickMe.addEventListener('mouseover', (e) => {
+    // Create a listener that listens for a 'mouseover' on the button
+    clickMe.addEventListener('mouseover', () => {
+      // Display this message on a 'mouseover'
       message.innerHTML = 'button "mouseover"'
     })
 
-    clickMe.addEventListener('click', (e) => {
+    // Add a listener for 'click' events to the button
+    clickMe.addEventListener('click', () => {
       message.innerHTML = 'button "click"'
     })
 
+    // Add a listener for 'mousemove' events on the box
     box.addEventListener('mousemove', (e) => {
+      // Event handlers receive an event object. This has info about the event.
+      // I'm using the event object e to get the position of the cursor
       message.innerHTML = `box "mousemove" clientX:${e.clientX} clientY:${e.clientY}`
     })
 
-    inputText.addEventListener('focus', (e) => {
+    // Listen for a 'focus' event at the input. Focus happens when you click or tab
+    // a text field and the keyboard will entertext there. 
+    inputText.addEventListener('focus', () => {
       message.innerHTML = 'input "focus"'
     })
 
+    // Listen for an 'input' event at the input. Input occurs when the value of the
+    // input changes!
     inputText.addEventListener('input', (e) => {
+      // Use the event object e to get the value and display it. 
       message.innerHTML = `input "input": ${e.target.value}`
     })
 
-    window.addEventListener('resize', (e) => {
+    // Listen for a 'resize' event at the window. Resize occurs when the window
+    // changes size. The window is the parent of your HTML document. 
+    window.addEventListener('resize', () => {
       message.innerHTML = `window "resize" width:${window.innerWidth} height:${window.innerHeight}`
     })
+
+    // The events you have seen above were: mouseover, click, mousemove, focus
+    // input, and resize. There are many more. 
+    
+    // Some events work only on certain elements. For example input doesn't work 
+    // on window or button becuase you can't enter text in the window or button. 
+    // The input element can listen for input events becuase you can enter text. 
+    // CONTEXT matters! 
+
+    // Read this page: https://javascript.info/introduction-browser-events
+    // These example show a couple other ways to add event listeners: 
+    
+    // inline: <button onclick="handlerFunction()">Click me</button>
+    // or someElement.onclick = handlerFunction
+    
+    // Best practice is to use the form shown in the examples here:
+    // someElement.addEventListener('eventName', handlerFunction)
+
+    // Challenge: Make your own event listener. Define your own event listener 
+    // here. 
 
 	</script>
 </body>
