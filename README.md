@@ -47,8 +47,8 @@ By the end of the course, you will be able to ...
 |  9 | Thu, Sep 15 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | Interview Practice |
 | 10 | Tue, Sep 20 | JS [Event Listeners] | Continue ecommerce tutorial | - |
 | 11 | Thu, Sep 22 | [JS Functions] | Continue ecommerce tutorial | - |
-| 12 | Tue, Sep 27 | [Arrow Functions] | [Ecommerce Tutorial] | Interview Practice |
-| 13 | Thu, Sep 29 | [JavaScript in the DOM] | [Single Page Site Ideas] | - |
+| 12 | Tue, Sep 27 | [Arrow Functions] | [Ecommerce Tutorial] | - |
+| 13 | Thu, Sep 29 | - | - | Interview Practice |
 | 14 | Tue, Oct  4 | Final Assessment | - | Interview Practice |
 
 <!-- | 14 | Tue, Oct  4 | JS [JavaScript Objects] | [Event Delegation] | - | -->
