@@ -49,7 +49,7 @@ By the end of the course, you will be able to ...
 | 11 | Thu, Sep 22 | [JS Functions] | Continue ecommerce tutorial | - |
 | 12 | Tue, Sep 27 | [Arrow Functions] | [Ecommerce Tutorial] | - |
 | 13 | Thu, Sep 29 | - | - | Interview Practice |
-| 14 | Tue, Oct  4 | Final Assessment | - | Interview Practice |
+| 14 | Tue, Oct  4 | [JS Objects] | - | Interview Practice |
 
 <!-- | 14 | Tue, Oct  4 | JS [JavaScript Objects] | [Event Delegation] | - | -->
 <!-- | 16 | Tue, Oct  4 | - | [Single Page Website] | - | -->
@@ -80,6 +80,8 @@ By the end of the course, you will be able to ...
 [Event Listeners]: https://docs.google.com/presentation/d/1_MXS8tAK8gUTwoKv9aaOI6TwrZcHoB2RjcPJJ5ViDv4/edit?usp=sharing
 [JS Functions]: https://docs.google.com/presentation/d/1Hh4nPnGMC3u43C5a5mmh1xpFbuXMwt_f6_-KrCXKyRs/edit?usp=sharing
 [Arrow Functions]: https://docs.google.com/presentation/d/111NwIZHRkkiwVpurxPmwP2hA8Hure2ku2BtRB2fWXQ8/edit?usp=sharing
+
+[JS Objects]: https://docs.google.com/presentation/d/1T1XL1xS-UscuUbLLJKrDKOD0yF_dSfkJiAfva1X_C_c/edit?usp=sharing
 
 [Single Page Site Ideas]: https://docs.google.com/presentation/d/1OJmQw9LLnbGSHtlKSz3eF9EQN2q00atAkNLdU8n40e0/edit?usp=sharing
 
