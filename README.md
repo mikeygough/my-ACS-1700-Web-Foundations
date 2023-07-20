@@ -36,20 +36,20 @@ By the end of the course, you will be able to ...
 
 | Class |   Date   |   Topics  |  Assignment Due  |  Assessment Due  |
 |:-----:|:--------:|:----------|:-----------------|:-----------------|
-|  1 | Thu, Aug 18 | HTML [Semantic HTML] | Start Portfolio | - |
-|  2 | Tue, Aug 23 | HTML [HTML Attributes] | Continue portfolio | - |
-|  3 | Thu, Aug 25 | [Lab 1] | [Portfolio Part 1: Semantic Markup] Validate Portfolio | Interview Practice | 
-|  4 | Tue, Aug 30 | CSS [CSS Intro] | - | - |
-|  5 | Thu, Sep  1 | CSS [CSS Box Model] | [CSS Challenges] | - |
-|  6 | Tue, Sep  6 | [Lab 2] | Continue styling portfolio | Interview Practice |
-|  7 | Thu, Sep  8 | CSS [Grid] | - | - |
-|  8 | Tue, Sep 13 | [Background Images] | [Style Your Portfolio] due! | [Lab 3] |
-|  9 | Thu, Sep 15 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | Interview Practice |
-| 10 | Tue, Sep 20 | JS [Event Listeners] | Continue ecommerce tutorial | - |
-| 11 | Thu, Sep 22 | [JS Functions] | Continue ecommerce tutorial | - |
-| 12 | Tue, Sep 27 | [Arrow Functions] | [Ecommerce Tutorial] | - |
-| 13 | Thu, Sep 29 | - | - | Interview Practice |
-| 14 | Tue, Oct  4 | [JS Objects] | - | Interview Practice |
+|  1 | Thu, Aug 17 | HTML [Semantic HTML] | Start Portfolio | - |
+|  2 | Tue, Aug 22 | HTML [HTML Attributes] | Continue portfolio | - |
+|  3 | Thu, Aug 24 | [Lab 1] | [Portfolio Part 1: Semantic Markup] Validate Portfolio | Interview Practice | 
+|  4 | Tue, Aug 29 | CSS [CSS Intro] | - | - |
+|  5 | Thu, Aug 31 | CSS [CSS Box Model] | [CSS Challenges] | - |
+|  6 | Tue, Sep  5 | [Lab 2] | Continue styling portfolio | Interview Practice |
+|  7 | Thu, Sep  7 | CSS [Grid] | - | - |
+|  8 | Tue, Sep 12 | [Background Images] | [Style Your Portfolio] due! | [Lab 3] |
+|  9 | Thu, Sep 14 | JS [JavaScript Syntax] | [Ecommerce Tutorial] | Interview Practice |
+| 10 | Tue, Sep 19 | JS [Event Listeners] | Continue ecommerce tutorial | - |
+| 11 | Thu, Sep 21 | [JS Functions] | Continue ecommerce tutorial | - |
+| 12 | Tue, Sep 26 | [Arrow Functions] | [Ecommerce Tutorial] | - |
+| 13 | Thu, Sep 28 | - | - | Interview Practice |
+| 14 | Tue, Oct  3 | [JS Objects] | - | Interview Practice |
 
 <!-- | 14 | Tue, Oct  4 | JS [JavaScript Objects] | [Event Delegation] | - | -->
 <!-- | 16 | Tue, Oct  4 | - | [Single Page Website] | - | -->
