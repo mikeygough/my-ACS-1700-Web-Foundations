@@ -11,9 +11,9 @@ You should solve these two problems and review your work with your team.
 
 Do your best marking up your assigned document. Each person in your team will choose a different document from the documents listed below: 
 
-- https://github.com/soggybag/learn-semantic-markup/blob/master/challenge-8.html
+- https://github.com/soggybag/learn-semantic-markup/blob/master/challenge-5.html
 - https://github.com/soggybag/learn-semantic-markup/blob/master/challenge-6.html
-- https://github.com/soggybag/learn-semantic-markup/blob/master/challenge-5.html 
+- https://github.com/soggybag/learn-semantic-markup/blob/master/challenge-8.html 
 
 Check your work with the HTML Validator: https://validator.w3.org
 

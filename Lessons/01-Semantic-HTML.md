@@ -9,7 +9,7 @@
 Breakout into groups of 4: 
 
 - share your name and where you are from
-- Why you wanted to come to Make School
+- Why you wanted to join the ACS dept.
 - What questions do you have about how to make websites? Get creative? We’ll be sure to address your questions during this class!  
 
 <!--Instructor Tip: post the last question in the class slack channel and have students share their answers on a threaded message.-->
@@ -51,7 +51,7 @@ Success Skills Exercise - WOOP (5 to 10 mins)
 
 https://drive.google.com/file/d/1vXiBzQ7AeHSMLJgvn3Ji-BMNvCayQIPH/view
 
- -->
+-->
 
 ## HTML is Strucure <!--(5 min)-->
 
@@ -127,7 +127,61 @@ Better get those flowers ASAP valentines day is around the corner!
 
 Try this out on your own in code! Open this Repl and solve the problem there. 
 
-https://repl.it/join/owsvoilk-mitchellhudson
+<!-- https://repl.it/join/owsvoilk-mitchellhudson -->
+
+Markup the following article:
+
+```
+Markup Language
+
+From wikimedia
+Hypertext Markup Language (HTML) is the standard markup language for creating web pages and web applications.
+
+With Cascading Style Sheets (CSS) and JavaScript, it forms a triad of cornerstone technologies for the World Wide Web.[4]
+
+Web browsers receive HTML documents from a web server or from local storage and render the documents into multimedia web pages. HTML describes the structure of a web page semantically and originally included cues for the appearance of the document.
+
+Link: visit wiki
+```
+
+The text here is a snippet from wikipedia. It's an article about the HTML language. 
+Look at what's there. Find the following: 
+
+- Article
+- Header
+- Title	
+- Subtitle 
+- Two paragraphs
+- Footer 
+- Abbreviation 
+- Link
+
+Use these tags: 
+
+- <article>
+- <header>
+- <h1>
+- <p>
+- <footer>
+- <abbr>
+- <a>
+
+Think about these ideas:
+
+The whole thing is an article. All of the content is related. 
+
+The header and footer of an article always go inside the article. This shows they are related. 
+
+```HTML
+<article> 
+  <header></header>
+  other content
+  <footer></footer>
+</article>
+```
+
+The title might be an <h1> - <h6>
+Subtitle could be a <p> or other tag like <small>.
 
 <!-- 
 
@@ -224,6 +278,10 @@ Or, better
 <!-- > -->
 
 <abbr title="Hyper Text Markup Language">HTML</abbr> was invented by Tim Berners Lee.
+
+**Important concept!**
+
+Attributes are the values that appear within a tag. `title` and `datetime` in the last two examples. An attribute is always in the form of `name="value"`. The valus always appears in quotes. 
 
 <!-- > -->
 
