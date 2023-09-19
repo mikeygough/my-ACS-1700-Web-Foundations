@@ -65,7 +65,7 @@ sup {
 del {
   text-decoration: line-through;
   text-decoration-style: wavy;
-  text-decoration-color #ff6565;
+  text-decoration-color: #ff6565;
   color: #aeaeae;
 }
 

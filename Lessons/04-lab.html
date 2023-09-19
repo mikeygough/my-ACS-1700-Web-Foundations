@@ -42,16 +42,18 @@
 
 		// We need a reference to the input#days-since define a variable
 		// for this and assign a value with document.querySelector()
-		// Like this: 
+		// Like this:
 		const daysSinceInput = document.querySelector('#days-since');
 
 		// TODO: Make a variable for the isSucculent check box enter
 		// the id name of this element here:
-		const isSucculentInput = document.querySelector('');
+		const isSucculentInput = document.querySelector('#is-succulent');
+		// console.log(isSucculentInput);
 
 		// TODO: Use document.querySelector to get a reference to 
 		// p#message here:
-		const messageP;
+		const messageP = document.querySelector('#message');
+		console.log(messageP);
 
 		// It's good for us to define some variables for these HTML elements
 		// here and use these variables in the code below when we need 
@@ -72,11 +74,11 @@
 
 		// TODO: Add an event listener to isSucculentInput. The type of 
 		// event should be 'input' and the handler should be: update. 
-		isSucculentInput.addEventListener();
+		isSucculentInput.addEventListener('input', update);
 
 		// This update function is going to handle changes to the inputs 
 		// above and display a message in p#message. The listeners you added 
-		// adove are going to call this function when a change occurs. 
+		// above are going to call this function when a change occurs. 
 
 		function update(e) {
 			// Get the value from the days input
@@ -84,19 +86,25 @@
 
 			// TODO: Get the checked value from the is succulement input. Replace
 			// false below with: isSucculentInput.checked.
-			const isSucculent;
+			const isSucculent = isSucculentInput.checked
+			// console.log(isSucculent);
 
 			// The checked property will be true when there is a check in 
 			// the box and false when there is no check mark. 
 		
 			// TODO: You need to display a message in messageP use: 
-			// messageP.innHTML = "some message"
+			// messageP.innerHTML = "some message"
+			if (days > 3 && !isSucculent || days > 13 && isSucculent) {
+				messageP.innerHTML = 'Time to water!';
+			} else {
+				messageP.innerHTML = 'No need to water';
+			}
 			// You want to display "Time to water!" if days is greater than 3. 
 			// and isSucculent is false. 
 			// or if days is greater than 13 and isSucculent is true
 			// otherwise display "No need to water."
 		}
-
+	
 	</script>
 	<!-- Styles -->
 	<style>
